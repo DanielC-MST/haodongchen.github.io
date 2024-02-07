@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.E. in Mechanical Manufacture and Automation , Hefei University of Technology, 2014
-* Ph.D in Mechanical Engineering, Missouri University of Science and Technology, 8/2019 - 6/2024
+* Ph.D. in Mechanical Engineering, Missouri University of Science and Technology, 8/2019 - 6/2024
 
 
 
