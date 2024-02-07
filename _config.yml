@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haodong Chen"
   avatar           : "HaodongChen.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. candidate"
+  location         : "United States"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WGmYDYwAAAAJ&hl=en"
-  email            :
+  email            : "d.chenmst@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/DanielC-MST"
   google_plus      :
   keybase          :
   instagram        :
