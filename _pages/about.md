@@ -16,7 +16,7 @@ My research interests cover human activity recognition in human-computer interac
 
 My research interests span across machine learning, deep learning, computer vision, and signal processing, with a particular emphasis on human activity recognition in the domains of human-computer interaction and human-robot collaboration. I am proficient in employing advanced deep learning techniques, including CNN (Convolutional Neural Networks), video Transformer, RNN (Recurrent Neural Networks), and GCN (Graph Convolutional Networks) to facilitate intricate recognition processes. My current research endeavors are centered on fine-grained human activity recognition and prediction, notably in repetitive action counting and gaze-driven workforce training within the context of continuous movements. 
 
-# These efforts are part of my broader work on communication modality and activity recognition for smart factory environments, funded by the NSF, where I have achieved significant milestones, such as attaining 99% accuracy in real-time gesture recognition and 95% accuracy in natural language processing under varied background noises.
+These efforts are part of my broader work on communication modality and activity recognition for smart factory environments, funded by the NSF/
 
 My research journey has led me to explore critical topics that impact intelligent workforce training and health&fitness. I am passionate about leveraging scientific insights to address real-world challenges and contribute to advancements in the field.
 
