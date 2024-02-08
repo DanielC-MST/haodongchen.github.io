@@ -13,8 +13,8 @@ name                     : Haodong Chen
 description              : "personal description"
 url                      : "https://danielc-mst.github.io/haodongchen.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weixinghao.github.io"
-teaser                   : "weixing_photo_2.jpg"
+repository               : "haodongchen.github.io"
+teaser                   : "haodongchen.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "weixing-hao/"
+  linkedin         : "haodong-daniel-chen/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCSSDHkZEG_Cg-m-tJgu4dGw"
   wikipedia        :
 
 
