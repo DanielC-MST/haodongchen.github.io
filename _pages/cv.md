@@ -21,7 +21,8 @@ Work experience
 ======
 * 2023 Jan.-Jul.: Machine Learning Engineer
   * Peloton Interactive, New York, 441 9th Ave 6th, United States, 10001
-  * Duties included: Engaged in developing a cutting-edge system using AWS for Repetitive Action Counting (RepCount) and pose estimation in exercise routines, surpassing the state-of-the-art model by approximately 5%. This advancement provides users with in-depth insights into exercise patterns, enhancing progress tracking and workout optimization.
+  * Duties included:
+    - Engaged in developing a cutting-edge system using AWS for Repetitive Action Counting (RepCount) and pose estimation in exercise routines, surpassing the state-of-the-art model by approximately 5%. This advancement provides users with in-depth insights into exercise patterns, enhancing progress tracking and workout optimization.
     - Improved Repetitive Action Counting (RepCount) by 5% by training a 3D pose model on real-world action data from over 100 human subjects, using machine learning methods such as Swin Transformer and attention mechanism.
     - Augmented the dataset by five-fold, employing techniques like flipping and rotation with OpenCV, enhancing data richness.
     - Addressed challenges in RepCount like camera view changes, over-counting, under-counting, etc., and conducted data visualization.
@@ -33,7 +34,8 @@ Work experience
 
 * 2019 Aug. - 2024 May: Graduate Research Assistant
   * Missouri University of Science and Technology
-  * Duties included: Engaged in pioneering research on human activity recognition, human-computer interaction (HCI), and human-robot collaboration (HRC) systems using sensor-driven big data, on-site customized cognition, and augmented reality (AR) control structures. Key highlights: 
+  * Duties included:
+    - Engaged in pioneering research on human activity recognition, human-computer interaction (HCI), and human-robot collaboration (HRC) systems using sensor-driven big data, on-site customized cognition, and augmented reality (AR) control structures. Key highlights: 
     – Recognition& Accuracy: 
     • Achieved 95% accuracy on instance segmentation of tools and parts using Mask RCNN, implemented object-oriented Python.
     • Achieved 99% accuracy of offline multi-modal assembly action recognition using using CNN (VGG16, ResNet 50, and Inception V3) and RNN (LSTM and GRU) with CUDA/GPU programming. 
@@ -42,7 +44,7 @@ Work experience
     • Implemented data augmentation through image processing and Generative Adversarial Networks (GANs) to amplify data from a limited dataset.
     • Optimize motion patterns using unsupervised methods, such as the spectral cluster and Gaussian Mixture Model (GMM).
     
-    – System Development
+    * System Development
     • Crafted an eye gaze-based HCI system using Tobii tracker, OpenCV, PyTorch, PyQt, and Matplotlib.
     • Designed an assembly action recognition and prediction system using Graph Neural Network (GNN) and YOLO.
     • Constructed and analyzed skeleton/pose action dataset of human subjects using Google MediaPipe, SQL, Python, and Pandas.
