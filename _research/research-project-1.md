@@ -1,5 +1,5 @@
 ---
-title: "Web-Based App Design for AI-Ready Test Bed"
+title: "Web-Based App for Machine Learning Education"
 collection: research
 type: "Research"
 permalink: /research/research-project-1
