@@ -13,6 +13,7 @@ excerpt: |
             <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="900" />
         </div>
     </div>
+    
 ---
 
 ## Goals
