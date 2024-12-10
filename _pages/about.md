@@ -1,54 +1,40 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I’m Haodong Chen, a Postdoctoral Associate at the University of Maryland, College Park, within the Department of Mechanical Engineering, and a recent Ph.D. graduate in Mechanical Engineering from the [Missouri University of Science and Technology](https://www.mst.edu/) under the mentorship of [Dr. Ming Leu](https://sites.mst.edu/mingleu/) and Dr. [Zhaozheng Yin](https://www.cs.stonybrook.edu/people/faculty/zhaozhengyin). My primary research revolves around Industrial AI, computer vision, signal processing, and smart manufacturing systems. I have a strong background in machine learning, deep learning, and developing intelligent systems for industry and healthcare applications.
 
-Hello! Welcome to my space! I'm Haodong, a fifth-year Ph.D. student at the [Missouri University of Science and Technology](https://www.mst.edu/), specifically within the [Department of Mechanical and Aerospace Engineering](https://mae.mst.edu/). My academic journey is guided by the expertise of [Dr. Ming Leu](https://sites.mst.edu/mingleu/) and Dr. [Zhaozheng Yin](https://www.cs.stonybrook.edu/people/faculty/zhaozhengyin), and I spend most of my research hours in the [Innovative Smart & Additive Manufacturing (ISAM) Laboratory](https://isc.mst.edu/research/researchlaboratories/isam-laboratory/). 
-
-A data-driven personal website
+My work and research
 ======
-My research interests cover human activity recognition in human-computer interaction and human-robot collaboration, with a focus on the study of using deep learning methods, such as CNN, GCN, and RNN, in the recognition process. My current research topic focuses on fine-grained human activity recognition and prediction, repetitive action counting, and gaze-driven workforce training in continuous movements. 
+My research interests span a wide range of technical fields, including Industrial AI, Prognostics and Health Management (PHM), and smart manufacturing. I’m particularly passionate about using machine learning (ML) and computer vision (CV) techniques to enable predictive maintenance, real-time action recognition, and collaborative robotics. My work integrates sensor fusion, signal processing, and deep learning to create intelligent, human-centered manufacturing systems.
 
-My research interests span across machine learning, deep learning, computer vision, and signal processing, with a particular emphasis on human activity recognition in the domains of human-computer interaction and human-robot collaboration. I am proficient in employing advanced deep learning techniques, including CNN (Convolutional Neural Networks), video Transformer, RNN (Recurrent Neural Networks), and GCN (Graph Convolutional Networks) to facilitate intricate recognition processes. My current research endeavors are centered on fine-grained human activity recognition and prediction, notably in repetitive action counting and gaze-driven workforce training within the context of continuous movements. 
+Some of the highlights of my research contributions include:
 
-These efforts are part of my broader work on communication modality and activity recognition for smart factory environments, funded by the NSF/
+Smart Manufacturing: Designed real-time multi-modal human-robot collaboration systems for smart manufacturing, integrating gesture, speech, and pose-based controls.
 
-My research journey has led me to explore critical topics that impact intelligent workforce training and health&fitness. I am passionate about leveraging scientific insights to address real-world challenges and contribute to advancements in the field.
+Industrial AI Applications: Created machine learning models for assembly task recognition, which achieved 95%+ accuracy on multiple benchmark datasets.
 
-Getting started
+Healthcare Technology: Developed a cognitive rehabilitation system leveraging robotics and computer vision to support mild cognitive impairment rehabilitation.
+
+Deep Learning Research: Published over 20 peer-reviewed research papers focusing on machine learning, computer vision, and smart manufacturing.
+
+My work has been recognized at international conferences and featured in leading academic journals. I’ve had the privilege of collaborating with industry giants like Peloton Interactive, and I’ve contributed to research initiatives funded by NSF, NIST, and DOE.
+
+My personal life
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Beyond research, I’m driven by a passion for continuous learning and exploration. Here’s a glimpse into my personal interests:
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Tech Enthusiast: I enjoy developing and experimenting with new technologies, particularly in the areas of web development, cloud computing, and robotics.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Traveler: I’m an avid traveler, always eager to explore new cultures and cuisines.
 
-**Markdown generator**
+Fitness and Well-Being: I value physical and mental well-being, often engaging in swimming, hiking, and other fitness activities.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+With a passion for both research and development, I’m dedicated to advancing the fields of AI and smart manufacturing while also contributing to the well-being of society through innovative, real-world solutions.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
