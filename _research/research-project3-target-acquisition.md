@@ -47,6 +47,3 @@ excerpt: "<div>
 ## Impact
 This project has significantly enhanced the **accuracy of assembly systems** for parallel manipulators, reducing the need for manual intervention. It also introduced a cognitive rehabilitation system that supports immersive and interactive therapy sessions, benefiting individuals with mild cognitive impairments. By combining robotics, computer vision, and machine learning, this research has contributed to advancements in human-robot collaboration and rehabilitation technologies.
 
----
-
-If you'd like any changes, updates, or adjustments, let me know!
