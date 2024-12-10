@@ -8,7 +8,7 @@ slug: "research-project-1"
 image_width: "200px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This study aims to design a web app for online tests and education of machine learning on AI-Ready test bed.</p>
-    </div>
+</div>
     
 ---
 
