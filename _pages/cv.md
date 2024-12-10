@@ -11,11 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.E. in Mechanical Manufacture and Automation , Hefei University of Technology, 2014
-* Ph.D. in Mechanical Engineering, Missouri University of Science and Technology, 8/2019 - 6/2024
-
-
+* B.S. in Vehicle Engineering, Hefei University of Technology, 9/2012-6/2016
+* M.E. in Mechanical Manufacture and Automation, Hefei University of Technology, 9/2016-6/2019
+* Ph.D. in Mechanical Engineering, Missouri University of Science and Technology, 8/2019 - 5/2024
 
 Work experience
 ======
@@ -70,7 +68,7 @@ Work experience
   
 Skills
 ======
-* Programming Languages: Python, C++, MATLAB, SQL  
+* Programming Languages: Python, C++, MATLAB, SQL, JaveScript, TypeScript  
 * Machine Learning Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
 * Data Visualization & UI: Matplotlib, Pandas, PyQt
 * AI & Computer Vision: Machine learning, Deep learning, Big data, Computer vision, HCI, HRC
@@ -87,18 +85,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.research %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+News
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
