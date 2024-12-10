@@ -214,7 +214,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: single
+      layout: research
       author_profile: false
       share: false
       comments: false
@@ -232,7 +232,7 @@ defaults:
       path: ""
       type: news
     values:
-      layout: single
+      layout: news
       author_profile: false
       share: false
       comment: false
@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: gallery
     values:
-      layout: single
+      layout: gallery
       author_profile: false
       share: false
 
