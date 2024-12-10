@@ -20,7 +20,7 @@ excerpt: "<div>
 - Designed user-friendly interfaces and optimized data handling for efficient online machine learning environments.
 - Implemented secure data storage and retrieval systems to ensure data integrity and accessibility.
 <div style="text-align: center;">
-    <img src="https://haodongchen.github.io/haodongchen.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="900" />
 </div>
 
 
