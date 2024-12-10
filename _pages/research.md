@@ -1,17 +1,25 @@
 ---
-layout: archive
-title: "Research"
+layout: archive  # Use the layout that fits your theme and needs.
+title: "Research Projects"
 permalink: /research/
-author_profile: true
+author_profile: true  # If you're using a theme that supports author profiles and yo
 ---
-
-{% if author.googlescholar %}
-  You can also find my research on <u><a href="{{author.googlescholar}}">https://scholar.google.com/citations?user=Lk7LWcEAAAAJ&hl=en</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
 {% for post in site.research reversed %}
-  {% include archive-single.html %}
+  <div class="post-preview">
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt | strip_html }}</p>
+    <div style="text-align: center;">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img src="https://davidhao1994.github.io/weixinghao.github.io/images/{{ post.slug }}.jpg" alt="{{ post.title }}" style="width: {{ post.image_width }}; height: auto;">
+      </a>
+    </div>
+  </div>
 {% endfor %}
+
+
+
+
 
