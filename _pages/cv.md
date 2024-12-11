@@ -23,7 +23,11 @@ Work experience
     -	Designed a web-based application using TypeScript (frontend) and Python (backend) to enable online machine learning education.
     -	Collaborated with international companies to implement AI-driven solutions, improving process optimization.
     -	Developed proposals for projects with Siemens, Microsoft, and KU Leuven for NSF, NIST, and DOE.
-    -	Taught Industrial AI course to PhD and Master students, covering AI models, PHM, and machine learning in smart manufacturing.
+    -	Developed similarity-based learning models using PHM datasets to predict equipment failures and optimize maintenance schedules.
+    -	Implemented domain adaptation techniques with the CWRU dataset to enhance model generalization across diverse industrial settings.
+    -	Taught Industrial AI course to PhD and Master students, covering AI models, PHM, and machine learning in smart manufacturing
+![image](https://github.com/user-attachments/assets/0ee1d825-060b-4601-8a61-819f07981e8c)
+
 
 
 * 2023 Jan.-Jul.: Machine Learning Engineer
@@ -79,9 +83,22 @@ Skills
 *  Embedded Systems & Robotics: Raspberry Pi, Nvidia Jetson Nano, ROS                     
 
 
+**Journal Review Activities**
+======
+•	Engineering Applications of Artificial Intelligence (EAAI)
+•	IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+•	Journal of Intelligent Manufacturing
+•	ASME Journal of Computing and Information Science in Engineering
+•	ASME Journal of Engineering and Science in Medical Diagnostics and Therapy 
+•	ASME Journal of Mechanisms and Robotics
+•	ASME Open Journal of Engineering Journal of Intelligent Manufacturing Science China Technological Sciences
+•	ASME International Mechanical Engineering Congress & Exposition (IMECE) 2019 - 2023 Conference
+•	International Conference on Computer Science and Application Engineering (CSAE) 2019
+
 Teaching
 ======
-* Industrial Artificial Intelligence (ENME691, University of Maryland, Fall 2024)   
+* Industrial Artificial Intelligence (ENME691, University of Maryland, Fall 2024)
+
   
 Research
 ======
