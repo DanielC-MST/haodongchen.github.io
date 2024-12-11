@@ -79,11 +79,9 @@ Skills
 *  Embedded Systems & Robotics: Raspberry Pi, Nvidia Jetson Nano, ROS                     
 
 
-Publications
+Teaching
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Industrial Artificial Intelligence (ENME691, University of Maryland, Fall 2024)   
   
 Research
 ======
