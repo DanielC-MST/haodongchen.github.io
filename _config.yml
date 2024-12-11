@@ -215,7 +215,7 @@ defaults:
       type: research
     values:
       layout: research
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
   # _publications
