@@ -10,11 +10,11 @@ excerpt: "<div>
     <p>This project focuses on developing a web-based platform for storing machine learning-ready datasets and enabling real-time machine learning education. The system integrates IoT and sensor networks for data collection and interactive learning environments, offering secure data handling and optimized user experiences.</p>
 
 </div>"
-
+---
 <div style="text-align: center;">
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="200" />
 </div>
----
+
 
 ## Goals
 - Create a web-based app to facilitate machine learning education and interactive dataset management.
