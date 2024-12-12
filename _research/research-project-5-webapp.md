@@ -2,21 +2,21 @@
 title: "Web-Based App for Machine Learning Education"
 collection: research
 type: "Research"
-permalink: /research/research-project-1
+permalink: /research/research-project-1-webapp
 layout: single
-slug: "research-project-1"
+slug: "research-project-1-webapp"
 image_width: "200px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project focuses on developing a web-based platform for storing machine learning-ready datasets and enabling real-time machine learning education. The system integrates IoT and sensor networks for data collection and interactive learning environments, offering secure data handling and optimized user experiences.</p>
     <div style='text-align: center;'>
-            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-result-1-app.jpg' alt='Example Image' width='200' />
+            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-app.jpg' alt='Example Image' width='200' />
     </div>
 
 </div>"
 ---
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-result-1-app.jpg" alt="Example Image" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-app.jpg" alt="Example Image" width="900" />
 </div>
 
 ## Goals
@@ -31,7 +31,7 @@ excerpt: "<div>
 - **User-Centric Design:** Designed **user-friendly interfaces** and optimized data handling for efficient and seamless interactions within online machine learning environments.
 - **Data Security:** Implemented **secure data storage and retrieval systems** to ensure data integrity and accessibility, supporting multiple concurrent users and datasets.
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-result-2.jpg" alt="Example Image" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-flowchart.jpg" alt="Example Image" width="900" />
 </div>
 
 ## Technologies Utilized
