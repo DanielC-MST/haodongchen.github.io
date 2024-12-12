@@ -9,7 +9,7 @@ image_width: "200px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project focuses on the development of a Target Acquisition Software for the assembly of parallel manipulators and the design of an immersive cognitive rehabilitation system. By integrating machine learning algorithms and computer vision techniques, the project significantly improves assembly accuracy and cognitive rehabilitation capabilities.</p>
     <div style='text-align: center;'>
-            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-target-acquisition.jpg' alt='Example Image' width='200' />
+            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-target-acquisition.jpg' alt='Example Image' width='500' />
     </div>
 </div>"
 ---
