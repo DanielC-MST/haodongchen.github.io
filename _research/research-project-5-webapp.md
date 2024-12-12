@@ -2,21 +2,21 @@
 title: "Web-Based App for Machine Learning Education"
 collection: research
 type: "Research"
-permalink: /research/research-project-1-webapp
+permalink: /research/research-project-5-webapp
 layout: single
-slug: "research-project-1-webapp"
+slug: "research-project-5-webapp"
 image_width: "200px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project focuses on developing a web-based platform for storing machine learning-ready datasets and enabling real-time machine learning education. The system integrates IoT and sensor networks for data collection and interactive learning environments, offering secure data handling and optimized user experiences.</p>
     <div style='text-align: center;'>
-            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-app.jpg' alt='Example Image' width='200' />
+            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-5-app.jpg' alt='Example Image' width='200' />
     </div>
 
 </div>"
 ---
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-app.jpg" alt="Example Image" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-5-app.jpg" alt="Example Image" width="900" />
 </div>
 
 ## Goals
