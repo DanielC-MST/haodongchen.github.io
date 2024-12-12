@@ -2,9 +2,9 @@
 title: "Target Acquisition Software for Parallel Manipulator Assembly"
 collection: research
 type: "Research"
-permalink: /research/research-project3-target-acquisition
+permalink: /research/research-project-3
 layout: single
-slug: "research-project3-target-acquisition"
+slug: "research-project-3"
 image_width: "200px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project focuses on the development of a Target Acquisition Software for the assembly of parallel manipulators and the design of an immersive cognitive rehabilitation system. By integrating machine learning algorithms and computer vision techniques, the project significantly improves assembly accuracy and cognitive rehabilitation capabilities.</p>
