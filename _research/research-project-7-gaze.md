@@ -59,30 +59,6 @@ excerpt: "<div>
 ## Impact
 This project significantly enhances human-centered intelligent manufacturing by introducing a comprehensive gaze-driven assembly assistant system. The integration of assembly step recognition, repetitive action counting, and gaze estimation provides workers with real-time, contextual assistance, thereby improving the accuracy and efficiency of assembly tasks. The system's ability to dynamically display relevant tools, parts, and instructions based on worker gaze fosters a more intuitive and interactive assembly environment. Furthermore, the creation of a new, fine-grained dataset supports ongoing research and development in manufacturing automation. By addressing critical challenges such as the skills gap in manufacturing, this system not only boosts productivity but also contributes to safer and more ergonomic working conditions.
 
-## Project Details
-
-### Authors
-- **Haodong Chen** [hchenphm@umd.edu](mailto:hchenphm@umd.edu)
-  - Department of Mechanical Engineering, University of Maryland
-
-- **Niloofar Zendehdel** [n.zendehdel@mst.edu](mailto:n.zendehdel@mst.edu)
-  - Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
-
-- **Ming C. Leu** [mleu@mst.edu](mailto:mleu@mst.edu)
-  - Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
-
-- **Md Moniruzzaman** [md.moniruzzaman@stonybrook.edu](mailto:md.moniruzzaman@stonybrook.edu)
-  - Department of Biomedical Informatics and Department of Computer Science, Stony Brook University
-
-- **Zhaozheng Yin** [zyin@stonybrook.edu](mailto:zyin@stonybrook.edu)
-  - Department of Biomedical Informatics and Department of Computer Science, Stony Brook University
-
-### Abstract
-In human-centered intelligent manufacturing systems, optimizing operational performance through accurate action recognition and real-time assistance is paramount for enhancing quality and productivity. This paper introduces a gaze-driven assembly assistant system designed for smart manufacturing environments. The system processes input videos of worker assembly activities and employs algorithms for three key tasks: assembly step recognition using Convolutional Neural Networks (CNN) and Long-Short-Term Memory (LSTM) networks, repetitive action counting using Transformer networks, and eye gaze estimation with a gaze tracker. The outputs of these tasks are integrated to deliver real-time, gaze-based visual assistance via a custom software interface. This interface dynamically displays relevant tools, parts, and procedural instructions based on recognized assembly steps and provides detailed guidance based on worker gaze. Experimental results demonstrate high accuracy and efficiency in assembly step recognition, repetitive action counting, gaze estimation, and instruction delivery, showcasing the system's potential to significantly enhance human-robot collaboration in manufacturing settings.
-
-### Keywords
-Assembly assistance, Eye gaze estimation, Repetitive action counting, Long-Short-Term Memory, Transformer, Human-Robot Interaction, Smart Manufacturing
-
 ## References
 *Please refer to the [full publication](https://ssrn.com/abstract=4972051) for detailed references and further reading.*
 
