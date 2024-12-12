@@ -26,7 +26,6 @@ Work experience
     -	Developed similarity-based learning models using PHM datasets to predict equipment failures and optimize maintenance schedules.
     -	Implemented domain adaptation techniques with the CWRU dataset to enhance model generalization across diverse industrial settings.
     -	Taught Industrial AI course to PhD and Master students, covering AI models, PHM, and machine learning in smart manufacturing
-![image](https://github.com/user-attachments/assets/0ee1d825-060b-4601-8a61-819f07981e8c)
 
 
 
