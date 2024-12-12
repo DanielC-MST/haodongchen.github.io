@@ -12,12 +12,12 @@ excerpt: "<div>
             <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-result-1.jpg' alt='Example Image' width='400' />
     </div>
 </div>"
----
+
 
 <div style="text-align: center;">
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="900" />
 </div>
-
+---
 ## Goals
 - Create a web-based app to facilitate machine learning education and interactive dataset management.
 - Enable secure, real-time machine learning training and testing using IoT and sensor data.
