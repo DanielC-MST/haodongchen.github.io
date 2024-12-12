@@ -11,8 +11,8 @@ title                    : "Haodong Chen / Home"
 title_separator          : "-"
 name                     : Haodong Chen
 description              : "personal description"
-url                      : "https://danielc-mst.github.io/haodongchen.github.io/"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://danielc-mst.github.io"
+baseurl                  : "/haodongchen.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "haodongchen.github.io"
 teaser                   : "haodongchen.jpg"
 breadcrumbs              : false # true, false (default)
@@ -175,17 +175,23 @@ kramdown:
 
 # Collections
 collections:
-  research:
+  teaching:
     output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  news:
+  portfolio:
     output: false
     permalink: /:collection/:path/
-  gallery:
+  talks:
     output: false
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  gallery:
+    output: true
     permalink: /:collection/:path/
 
 
@@ -209,13 +215,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _research
+  # _teaching
   - scope:
       path: ""
-      type: research
+      type: teaching
     values:
-      layout: research
-      author_profile: true
+      layout: single
+      author_profile: false
       share: false
       comments: false
   # _publications
@@ -227,22 +233,38 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _news
+  # _portfolio
   - scope:
       path: ""
-      type: news
+      type: portfolio
     values:
-      layout: news
+      layout: single
       author_profile: false
       share: false
       comment: false
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: research
+      author_profile: True
+      share: false
   # _gallery
   - scope:
       path: ""
       type: gallery
     values:
       layout: gallery
-      author_profile: false
+      author_profile: True
       share: false
 
 # Sass/SCSS
