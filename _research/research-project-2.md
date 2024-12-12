@@ -2,9 +2,9 @@
 title: "Activity Recognition for Smart Manufacturing"
 collection: research
 type: "Research"
-permalink: /research/research-project2-activity-recognition
+permalink: /research/research-project-2
 layout: single
-slug: "research-project2-activity-recognition"
+slug: "research-project-2"
 image_width: "200px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project focuses on activity recognition in smart manufacturing environments, leveraging YOLO, RNN, and computer vision-based systems to develop real-time, human-centered manufacturing processes. The research spans multiple areas, including human-robot collaboration, action recognition, and multi-modal learning, culminating in highly accurate prediction models and intelligent control systems.</p>
