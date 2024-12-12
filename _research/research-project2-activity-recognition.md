@@ -15,7 +15,7 @@ excerpt: "<div>
 ---
 
 <div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/research-project-activity-recognition-background.jpg" alt="Example Image" width="800" />
+    <img src="https://yourwebsite.com/images/research-project2-activity-recognition-background.jpg" alt="Example Image" width="800" />
 </div>
 
 ## Goals
