@@ -23,9 +23,6 @@ excerpt: "<div>
 - Enable secure, real-time machine learning training and testing using IoT and sensor data.
 - Develop a user-friendly interface for easy interaction and educational use.
 
-<div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/research-project-web-app-goal.jpg" alt="Example Image" width="700" />
-</div>
 
 ## Key Contributions
 - **Web Application Development:** Developed a web application with a **TypeScript-based frontend** and **Python-based backend** for storing machine learning-ready datasets.
@@ -33,7 +30,7 @@ excerpt: "<div>
 - **User-Centric Design:** Designed **user-friendly interfaces** and optimized data handling for efficient and seamless interactions within online machine learning environments.
 - **Data Security:** Implemented **secure data storage and retrieval systems** to ensure data integrity and accessibility, supporting multiple concurrent users and datasets.
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-result-1.jpg" alt="Example Image" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-result-2.jpg" alt="Example Image" width="900" />
 </div>
 
 ## Technologies Utilized
@@ -42,9 +39,6 @@ excerpt: "<div>
 - **Data Security:** Secure data storage, encryption, and user authentication.
 - **IoT Integration:** IoT sensors, real-time data streaming, and live visualization.
 
-<div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/research-project-web-app-technology.jpg" alt="Example Image" width="1400" />
-</div>
 
 ## Impact
 This project provides a modern, interactive platform for machine learning education and real-time data analysis. By enabling IoT-driven data collection, secure storage, and responsive web-based interactions, the system empowers students and educators to engage in hands-on learning experiences.
