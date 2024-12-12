@@ -9,7 +9,7 @@ image_width: "200px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project focuses on activity recognition in smart manufacturing environments, leveraging YOLO, RNN, and computer vision-based systems to develop real-time, human-centered manufacturing processes. The research spans multiple areas, including human-robot collaboration, action recognition, and multi-modal learning, culminating in highly accurate prediction models and intelligent control systems.</p>
     <div style='text-align: center;'>
-        <img src='https://haodongchen.github.io/haodongchen.github.io/images/research-project-activity-recognition.jpg' alt='Example Image' width='200' />
+            <img src='https://haodongchen.github.io/haodongchen.github.io/images/research-project-activity-recognition.jpg' alt='Example Image' width='200' />
     </div>
 </div>"
 ---
