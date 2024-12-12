@@ -14,7 +14,7 @@ description              : "personal description"
 url                      : "https://danielc-mst.github.io"
 baseurl                  : "/haodongchen.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "haodongchen.github.io"
-teaser                   : "haodongchen.jpg"
+teaser                   : # "haodongchen.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
