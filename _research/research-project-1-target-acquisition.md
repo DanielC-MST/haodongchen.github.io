@@ -2,20 +2,20 @@
 title: "Target Acquisition Software for Parallel Manipulator Assembly"
 collection: research
 type: "Research"
-permalink: /research/research-project-3
+permalink: /research/research-project-1-target-acquisition
 layout: single
-slug: "research-project-3"
+slug: "research-project-1-target-acquisition"
 image_width: "200px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project focuses on the development of a Target Acquisition Software for the assembly of parallel manipulators and the design of an immersive cognitive rehabilitation system. By integrating machine learning algorithms and computer vision techniques, the project significantly improves assembly accuracy and cognitive rehabilitation capabilities.</p>
     <div style='text-align: center;'>
-            <img src='https://yourwebsite.com/images/research-project-target-acquisition.jpg' alt='Example Image' width='200' />
+            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-target-acquisition.jpg' alt='Example Image' width='200' />
     </div>
 </div>"
 ---
 
 <div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/research-project-target-acquisition-background.jpg" alt="Example Image" width="800" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-target-acquisition.jpg" alt="Example Image" width="800" />
 </div>
 
 ## Goals
