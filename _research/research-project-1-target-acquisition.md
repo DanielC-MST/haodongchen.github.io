@@ -6,12 +6,13 @@ permalink: /research/research-project-1-target-acquisition
 layout: single
 slug: "research-project-1-target-acquisition"
 image_width: "500"  # Custom width for this post's image
-excerpt: "<div>
-    <p>This project focuses on the development of a Target Acquisition Software for the assembly of parallel manipulators and the design of an immersive cognitive rehabilitation system. By integrating machine learning algorithms and computer vision techniques, the project significantly improves assembly accuracy and cognitive rehabilitation capabilities.</p>
-    <div style='text-align: center;'>
-            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-target-acquisition.jpg' alt='Example Image' width='800' />
-    </div>
-</div>"
+excerpt: |
+    <div>
+        <p>This project focuses on the development of a Target Acquisition Software for the assembly of parallel manipulators and the design of an immersive cognitive rehabilitation system. By integrating machine learning algorithms and computer vision techniques, the project significantly improves assembly accuracy and cognitive rehabilitation capabilities.</p>
+        <div style="text-align: center;">
+            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-target-acquisition.jpg" alt='Example Image' width=100% />
+        </div>
+    </div>"
 ---
 
 <div style="text-align: center;">
