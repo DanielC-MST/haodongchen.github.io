@@ -5,18 +5,18 @@ type: "Research"
 permalink: /research/research-project-6-app
 layout: single
 slug: "research-project-6-app"
-image_width: "400"  # Custom width for this post's image
+image_width: "200"  # Custom width for this post's image
 excerpt: |
     <div>
         <p>This project focuses on developing a web-based platform for storing machine learning-ready datasets and enabling real-time machine learning education. The system integrates IoT and sensor networks for data collection and interactive learning environments, offering secure data handling and optimized user experiences.</p>
         <div style="text-align: center;">
-            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-6-app.jpg" alt="Example Image" width=50% />
+            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-6-app.jpg" alt="Example Image" width=200 />
         </div>
     </div>
 ---
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-5-app.jpg" alt="Example Image" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-6-app.jpg" alt="Example Image" width=100% />
 </div>
 
 ## Goals
@@ -31,7 +31,7 @@ excerpt: |
 - **User-Centric Design:** Designed **user-friendly interfaces** and optimized data handling for efficient and seamless interactions within online machine learning environments.
 - **Data Security:** Implemented **secure data storage and retrieval systems** to ensure data integrity and accessibility, supporting multiple concurrent users and datasets.
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-flowchart.jpg" alt="Example Image" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-6-flowchart.jpg" alt="Example Image" width="900" />
 </div>
 
 ## Technologies Utilized
