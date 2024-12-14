@@ -11,6 +11,7 @@ excerpt: "<div>
     <div style='text-align: center;'>
             <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-5-app.jpg' alt='Example Image' width='200' />
     </div>
+    ![what](images/image-alignment-300x200.jpg)
 
 </div>"
 ---
