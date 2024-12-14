@@ -2,9 +2,9 @@
 title: "Target Acquisition Software for Parallel Manipulator Assembly"
 collection: research
 type: "Research"
-permalink: /research/research-project-1
+permalink: /research/research-project-1-target-acquisition
 layout: single
-slug: "research-project-1"
+slug: "research-project-1-target-acquisition"
 image_width: "500"  # Custom width for this post's image
 excerpt: |
     <div>
