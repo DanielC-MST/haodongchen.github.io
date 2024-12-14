@@ -9,15 +9,15 @@ image_width: "500"  # Custom width for this post's image
 excerpt: |
     <div>
         <p>This project explores the development of a real-time, multi-modal Human–Robot Collaboration (HRC) system that leverages both gestures and speech for seamless interaction between humans and industrial robots. By integrating convolutional neural networks and advanced speech recognition algorithms, the system achieves high accuracy in gesture and speech recognition, enhancing the efficiency and intuitiveness of human-robot collaborations in manufacturing environments.</p>
-        <div style="text-align: center;">
-            <img src="images/research-project-2-human-robot-collaboration.jpg" alt="Example Image" width=auto height='100' />
-        </div>
+        ![test](images/research-project-2-human-robot-collaboration.jpg")
     </div>
 ---
 
-<div style="text-align: center;">
-    <img src="images/research-project-2-human-robot-collaboration.jpg" alt='Example Image' width= 100% />
-</div>
+![test](images/research-project-2-human-robot-collaboration.jpg")
+
+        <div style="text-align: center;">
+            <img src="images/research-project-2-human-robot-collaboration.jpg" alt="Example Image" width=auto height='100' />
+        </div>
 
 ## Goals
 - **Develop a Multi-Modal HRC System:** Create a real-time system that combines gesture and speech recognition to facilitate intuitive human-robot interactions on the factory floor.
