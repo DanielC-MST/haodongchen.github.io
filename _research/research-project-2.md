@@ -2,9 +2,9 @@
 title: "Real-Time Multi-Modal Human–Robot Collaboration Using Gestures and Speech"
 collection: research
 type: "Research"
-permalink: /research/research-project-2-gesture-speech
+permalink: /research/research-project-2
 layout: single
-slug: "research-project-2-gesture-speech"
+slug: "research-project-2"
 image_width: "500"  # Custom width for this post's image
 excerpt: |
     <div>
