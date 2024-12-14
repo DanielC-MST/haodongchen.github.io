@@ -16,7 +16,7 @@ excerpt: |
 ---
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-human-robot-collaboration.jpg" alt='Example Image' width= 100% />
+    <img src="/images/research-project-2-human-robot-collaboration.jpg" alt='Example Image' width= 100% />
 </div>
 
 ## Goals
