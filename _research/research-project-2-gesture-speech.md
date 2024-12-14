@@ -15,9 +15,9 @@ excerpt: |
     </div>
 ---
 
-        <div style="text-align: center;">
-            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-human-robot-collaboration.jpg" alt="Example Image" width=auto height='100' />
-        </div>
+<div style="text-align: center;">
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-human-robot-collaboration.jpg" alt="Example Image" width=auto height='100' />
+</div>
 
 ## Goals
 - **Develop a Multi-Modal HRC System:** Create a real-time system that combines gesture and speech recognition to facilitate intuitive human-robot interactions on the factory floor.
