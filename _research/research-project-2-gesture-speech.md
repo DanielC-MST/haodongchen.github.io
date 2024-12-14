@@ -7,12 +7,12 @@ layout: single
 slug: "research-project-2-gesture-speech"
 image_width: "500"  # Custom width for this post's image
 excerpt: |
-<div>
-    <p>This project explores the development of a real-time, multi-modal Human–Robot Collaboration (HRC) system that leverages both gestures and speech for seamless interaction between humans and industrial robots. By integrating convolutional neural networks and advanced speech recognition algorithms, the system achieves high accuracy in gesture and speech recognition, enhancing the efficiency and intuitiveness of human-robot collaborations in manufacturing environments.</p>
-    <div style="text-align: center;">
-        <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-human-robot-collaboration.jpg" alt="Example Image" width="800" />
+    <div>
+        <p>This project explores the development of a real-time, multi-modal Human–Robot Collaboration (HRC) system that leverages both gestures and speech for seamless interaction between humans and industrial robots. By integrating convolutional neural networks and advanced speech recognition algorithms, the system achieves high accuracy in gesture and speech recognition, enhancing the efficiency and intuitiveness of human-robot collaborations in manufacturing environments.</p>
+        <div style="text-align: center;">
+            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-human-robot-collaboration.jpg" alt="Example Image" width="800" />
+        </div>
     </div>
-</div>
 ---
 
 <div style="text-align: center;">
