@@ -13,7 +13,7 @@ excerpt: |
     </div>
 ---
 
-![test](images/research-project-2-human-robot-collaboration.jpg")
+![test](/images/research-project-2-human-robot-collaboration.jpg")
 
         <div style="text-align: center;">
             <img src="images/research-project-2-human-robot-collaboration.jpg" alt="Example Image" width=auto height='100' />
