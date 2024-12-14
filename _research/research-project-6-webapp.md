@@ -9,7 +9,7 @@ image_width: "400px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project focuses on developing a web-based platform for storing machine learning-ready datasets and enabling real-time machine learning education. The system integrates IoT and sensor networks for data collection and interactive learning environments, offering secure data handling and optimized user experiences.</p>
     <div style='text-align: center;'>
-            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-5-app.jpg' alt='Example Image' width='200' />
+            <img src='images/research-project-5-app.jpg' alt='Example Image' width='200' />
     </div>
     ![what](images/image-alignment-300x200.jpg)
 
