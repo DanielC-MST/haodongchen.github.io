@@ -73,7 +73,7 @@ author_profile: true
 
 <div class="gallery">
     {% for file in site.static_files %}
-        {% if file.path contains "/images/gallery/" and file.extname == ".HEIC" %}
+        {% if file.path contains "/images/gallery/" and file.extname == ".jpg" %}
             <div>
                 <img src="{{ file.path }}" alt="{{ file.name | split: '.' | first | replace: '_', ' ' | capitalize }}" loading="lazy">
             </div>
