@@ -10,7 +10,7 @@ excerpt: |
     <div>
         <p>This project explores the development of a real-time, multi-modal Human–Robot Collaboration (HRC) system that leverages both gestures and speech for seamless interaction between humans and industrial robots. By integrating convolutional neural networks and advanced speech recognition algorithms, the system achieves high accuracy in gesture and speech recognition, enhancing the efficiency and intuitiveness of human-robot collaborations in manufacturing environments.</p>
         <div style="text-align: center;">
-            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-gesture-speech.jpg" alt="Human-Robot Collaboration System" style="width:100%;" />
+            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-gesture-speech.jpg" alt="Human-Robot Collaboration System" style="width:80%;" />
         </div>
     </div>
 ---
@@ -59,5 +59,7 @@ This project significantly advances the field of human–robot collaboration by 
 
 ## Selected Publications
 *Please refer to the [full publication](https://doi.org/10.1115/1.4054297) for detailed references and further reading.*
-
+1. Chen, H, Tao, W, Leu, MC, & Yin, Z. "Dynamic Gesture Design and Recognition for Human-Robot Collaboration With Convolutional Neural Networks." Proceedings of the 2020 International Symposium on Flexible Automation. 2020 International Symposium on Flexible Automation. Virtual, Online. July 8–9, 2020. V001T09A001. ASME. https://doi.org/10.1115/ISFA2020-9609
+2. Chen, H, Leu, MC, Tao, W, & Yin, Z. "Design of a Real-Time Human-Robot Collaboration System Using Dynamic Gestures." Proceedings of the ASME 2020 International Mechanical Engineering Congress and Exposition. Volume 2B: Advanced Manufacturing. Virtual, Online. November 16–19, 2020. V02BT02A051. ASME. https://doi.org/10.1115/IMECE2020-23650
+3. Chen, H., Leu, M. C., and Yin, Z. (June 10, 2022). "Real-Time Multi-Modal Human–Robot Collaboration Using Gestures and Speech." ASME. J. Manuf. Sci. Eng. October 2022; 144(10): 101007. https://doi.org/10.1115/1.4054297
 ---
