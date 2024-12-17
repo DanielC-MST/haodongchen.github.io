@@ -16,7 +16,7 @@ excerpt: |
 ---
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-6-app.jpg" alt="Example Image" width=100% />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-6-app.jpg" alt="Example Image" width='150' />
 </div>
 
 ## Goals
