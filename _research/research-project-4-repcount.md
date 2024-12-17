@@ -46,8 +46,6 @@ excerpt: |
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings_.jpg" alt="Addressing the under-counting issue" width="900" />
 </div>
 
-
-
 ## Technologies Utilized
 - **Pose Estimation:** Employed Google Mediapipe BlazePose model to extract 33 pose landmarks with high accuracy.
 - **Joint Angle Calculation:** Computed five key joint angles (elbow, shoulder, hip, knee, ankle) from the pose landmarks to capture movement dynamics.
@@ -68,7 +66,8 @@ The method's ability to handle environmental variations and differentiate sub-ac
 
 
 ## References
-*Please refer to the [full publication](https://asmedigitalcollection.asme.org/flexibleautomation/article-pdf/ISFA2024-140665/REPETITIVE_ACTION_COUNTING_THROUGH_JOINT_ANGLE_ANALYSIS_AND_VIDEO_TRANSFORMER_TECHNIQUES.pdf) for detailed references and further reading.*
-1.Chen, H, Zendehdel, N, Leu, MC, Moniruzzaman, M, Yin, Z, & Hajmohammadi, S. "Repetitive Action Counting Through Joint Angle Analysis and Video Transformer Techniques." Proceedings of the 2024 International Symposium on Flexible Automation. 2024 International Symposium on Flexible Automation. Seattle, Washington, USA. July 21–24, 2024. V001T08A003. ASME. https://doi.org/10.1115/ISFA2024-140665
+*Please refer to the for detailed references and further reading.*
+1.Chen, H, Zendehdel, N, Leu, MC, Moniruzzaman, M, Yin, Z, & Hajmohammadi, S. "Repetitive Action Counting Through Joint Angle Analysis and Video Transformer Techniques." Proceedings of the 2024 International Symposium on Flexible Automation. 2024 International Symposium on Flexible Automation. Seattle, Washington, USA. July 21–24, 2024. V001T08A003. ASME. [doi](https://doi.org/10.1115/ISFA2024-140665)
+[full publication](https://asmedigitalcollection.asme.org/flexibleautomation/article-pdf/ISFA2024-140665/REPETITIVE_ACTION_COUNTING_THROUGH_JOINT_ANGLE_ANALYSIS_AND_VIDEO_TRANSFORMER_TECHNIQUES.pdf) 
 
 ---
