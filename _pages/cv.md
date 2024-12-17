@@ -85,13 +85,21 @@ Skills
 **Journal Review Activities**
 ======
 •	Engineering Applications of Artificial Intelligence (EAAI)
+
 •	IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
 •	Journal of Intelligent Manufacturing
+
 •	ASME Journal of Computing and Information Science in Engineering
+
 •	ASME Journal of Engineering and Science in Medical Diagnostics and Therapy 
+
 •	ASME Journal of Mechanisms and Robotics
+
 •	ASME Open Journal of Engineering Journal of Intelligent Manufacturing Science China Technological Sciences
+
 •	ASME International Mechanical Engineering Congress & Exposition (IMECE) 2019 - 2023 Conference
+
 •	International Conference on Computer Science and Application Engineering (CSAE) 2019
 
 Teaching
