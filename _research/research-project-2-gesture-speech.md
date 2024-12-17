@@ -56,28 +56,8 @@ excerpt: |
 ## Impact
 This project significantly advances the field of human–robot collaboration by providing a robust, real-time system that seamlessly integrates gesture and speech commands. The high accuracy in recognizing multiple gestures and speech commands reduces the reliance on manual interventions and enhances operational efficiency in manufacturing settings. Additionally, the multi-threading architecture ensures that the system remains responsive and reliable, even in dynamic and noisy environments. By enabling more natural and intuitive interactions between humans and robots, this research contributes to the broader adoption of collaborative robots (cobots) in industry, improving productivity and fostering safer working environments.
 
-## Project Details
 
-### Authors
-- **Haodong Chen**
-  - Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology, Rolla, MO 65409
-  - Email: [h.chen@mst.edu](mailto:h.chen@mst.edu)
-  
-- **Ming C. Leu**
-  - Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology, Rolla, MO 65409
-  - Email: [mleu@mst.edu](mailto:mleu@mst.edu)
-  
-- **Zhaozheng Yin**
-  - Department of Biomedical Informatics & Department of Computer Science, Stony Brook University, Stony Brook, NY 11794
-  - Email: [zyin@cs.stonybrook.edu](mailto:zyin@cs.stonybrook.edu)
-
-### Abstract
-As artificial intelligence and industrial automation advance, Human–Robot Collaboration (HRC) systems with sophisticated interaction capabilities are becoming increasingly vital. This project designs and develops a real-time, multi-modal HRC system that utilizes both speech and gestures for effective communication between human workers and industrial robots. Sixteen dynamic gestures were crafted and a corresponding dataset was created and shared with the research community. A convolutional neural network (CNN) was employed for real-time gesture recognition using Motion History Images (MHI) and deep learning techniques. Additionally, an improved open-source speech recognizer was integrated to handle natural speech commands. An integration strategy combining gesture and speech recognition results was proposed, supported by a multi-threading architecture to manage concurrent tasks. Experimental results demonstrate the system's high accuracy and effectiveness, validating the feasibility of the proposed HRC system.
-
-### Keywords
-human–robot collaboration, gesture recognition, speech recognition, real-time, multi-modal, multiple threads
-
-## References
+## Selected Publications
 *Please refer to the [full publication](https://doi.org/10.1115/1.4054297) for detailed references and further reading.*
 
 ---
