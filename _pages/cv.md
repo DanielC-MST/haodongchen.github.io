@@ -20,6 +20,7 @@ Work experience
 * 2024 May.-Present.: Post Doctoral Associate
   *  University of Maryland, Department of Mechanical Engineering, College Park, MD, US
   *  Duties included:
+        - Engaged in developing a cutting-edge system using AWS for Repetitive Action Counting (RepCount) and pose estimation in exercise routines, surpassing the state-of-the-art model by approximately 5%. This advancement provides users with in-depth insights into exercise patterns, enhancing progress tracking and workout optimization.
     * Designed a web-based application using TypeScript (frontend) and Python (backend) to enable online machine learning education.
     *	Collaborated with international companies to implement AI-driven solutions, improving process optimization.
     *	Developed proposals for projects with Siemens, Microsoft, and KU Leuven for NSF, NIST, and DOE.
