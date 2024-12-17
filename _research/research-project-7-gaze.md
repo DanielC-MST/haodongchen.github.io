@@ -16,7 +16,7 @@ excerpt: |
 ---
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-7-gaze.jpg" alt="Gaze-Driven Assembly Assistant" width="800" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-7-background.jpg" alt="Gaze-Driven Assembly Assistant" width="800" />
 </div>
 
 ## Goals
@@ -27,10 +27,10 @@ excerpt: |
 - **Ensure Real-Time Performance:** Achieve real-time processing and feedback to provide immediate assistance to workers during assembly operations.
 
 <div style="text-align: center;">
-    <img src="[https://yourwebsite.com](https://DanielC-MST.github.io/haodongchen.github.io)/images/gaze-driven-assembly-assistant-goals.jpg" alt="Project Goals" width="700" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-7-goal.jpg" alt="Project Goals" width="700" />
 </div>
 
-## Key Contributions
+## Key Findings
 - **Dual-Task Integration:** Combined assembly step recognition with repetitive action counting and gaze estimation to provide a holistic assistance system.
 - **Advanced Model Architectures:** Utilized Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM) networks, and Transformer networks to achieve high accuracy in step recognition and action counting.
 - **Real-Time Gaze-Based Feedback:** Developed a gaze tracking mechanism that interacts with a software interface to display relevant tools, parts, and instructions based on worker focus.
@@ -39,7 +39,7 @@ excerpt: |
 - **User-Friendly Software Interface:** Designed an intuitive interface that dynamically updates based on recognized assembly steps and worker gaze, enhancing ease of use and effectiveness.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/gaze-driven-assembly-assistant-contributions.jpg" alt="Key Contributions" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-7-findings.jpg" alt="Technologies Utilized" width="1400" />
 </div>
 
 ## Technologies Utilized
@@ -53,9 +53,7 @@ excerpt: |
 - **High-Performance Computing:** NVIDIA GeForce RTX 3090 for accelerated model training and real-time processing.
 - **Programming Languages:** Python for algorithm development and model implementation.
 
-<div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/gaze-driven-assembly-assistant-technology.jpg" alt="Technologies Utilized" width="1400" />
-</div>
+
 
 ## Impact
 This project significantly enhances human-centered intelligent manufacturing by introducing a comprehensive gaze-driven assembly assistant system. The integration of assembly step recognition, repetitive action counting, and gaze estimation provides workers with real-time, contextual assistance, thereby improving the accuracy and efficiency of assembly tasks. The system's ability to dynamically display relevant tools, parts, and instructions based on worker gaze fosters a more intuitive and interactive assembly environment. Furthermore, the creation of a new, fine-grained dataset supports ongoing research and development in manufacturing automation. By addressing critical challenges such as the skills gap in manufacturing, this system not only boosts productivity but also contributes to safer and more ergonomic working conditions.
