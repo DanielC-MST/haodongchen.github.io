@@ -37,13 +37,14 @@ excerpt: |
 - **Comprehensive Evaluation:** Conducted extensive experiments to validate the effectiveness of different joint angle configurations and their impact on repetitive action counting.
 
 <div style="text-align: center;">
-    <p><strong>Addressing the inability issue to stably deal with varying camera viewpoints</strong></p>
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings.jpg" alt="Addressing the inability issue to stably deal with varying camera viewpoints" width="900" />
+    <p><strong>Addressing the inability issue to stably deal with varying camera viewpoints</strong></p>
 </div>
 
 <div style="text-align: center;">
-    <p><strong>Addressing the under-counting issue</strong></p>
+
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings_.jpg" alt="Addressing the under-counting issue" width="900" />
+    <p><strong>Addressing the under-counting issue</strong></p>
 </div>
 
 ## Technologies Utilized
