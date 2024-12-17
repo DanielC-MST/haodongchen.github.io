@@ -28,7 +28,7 @@ excerpt: |
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-goal.jpg" alt="Project Goals" width="700" />
 </div>
 
-## Key Contributions
+## Key Findings
 - **Dynamic Gesture Design:** Created a set of 16 dynamic gestures categorized into iconic and deictic types, specifically tailored for robot calibration and operational commands.
 - **Real-Time Motion History Image (MHI) Method:** Developed a real-time MHI generation technique to extract dynamic gesture features from multi-view RGB camera inputs, enabling effective feature representation for gesture recognition.
 - **Convolutional Neural Network (CNN) for Gesture Recognition:** Built a robust CNN-based model that processes resized MHIs to accurately classify gestures with over 98% accuracy.
