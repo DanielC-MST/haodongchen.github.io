@@ -16,7 +16,7 @@ excerpt: |
 ---
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-human-robot-collaboration.jpg" alt="Example Image" width=100% />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-background.jpg" alt="Example Image" width=100% />
 </div>
 
 ## Goals
@@ -25,7 +25,7 @@ excerpt: |
 - **Integrate Parallel Processing:** Design a multi-threading architecture that enables simultaneous gesture and speech data processing, ensuring real-time responsiveness and efficiency.
 
 <div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/research-project-human-robot-collaboration-goals.jpg" alt="Project Goals" width="700" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-goal.jpg" alt="Project Goals" width="700" />
 </div>
 
 ## Key Contributions
@@ -38,7 +38,7 @@ excerpt: |
 - **Comprehensive System Demonstration:** Implemented and demonstrated the HRC system using a 6-DOF robotic arm performing pick-and-place tasks, showcasing the practical applicability and efficiency of the developed system.
 
 <div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/research-project-human-robot-collaboration-contributions.jpg" alt="Key Contributions" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-findings.jpg" alt="Key Contributions" width="900" />
 </div>
 
 ## Technologies Utilized
@@ -48,10 +48,6 @@ excerpt: |
 - **Hardware and Frameworks:** Logitech HD Webcam C920 for gesture and speech capture, 6-DOF e.DO robotic arm, multi-threading with Python API, NVIDIA GeForce GTX 1080Ti GPUs for accelerated processing.
 - **Real-Time Processing:** Motion History Image (MHI) generation, multi-threading architecture for parallel task management, real-time control systems.
 - **Data Structures:** FIFO queues for managing gesture and speech data streams.
-
-<div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/research-project-human-robot-collaboration-technology.jpg" alt="Technologies Utilized" width="1400" />
-</div>
 
 ## Impact
 This project significantly advances the field of human–robot collaboration by providing a robust, real-time system that seamlessly integrates gesture and speech commands. The high accuracy in recognizing multiple gestures and speech commands reduces the reliance on manual interventions and enhances operational efficiency in manufacturing settings. Additionally, the multi-threading architecture ensures that the system remains responsive and reliable, even in dynamic and noisy environments. By enabling more natural and intuitive interactions between humans and robots, this research contributes to the broader adoption of collaborative robots (cobots) in industry, improving productivity and fostering safer working environments.
