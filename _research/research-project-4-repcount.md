@@ -16,7 +16,7 @@ excerpt: |
 ---
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-repcount.jpg" alt="Repetitive Action Counting" width="800" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-background.jpg" alt="Repetitive Action Counting" width="800" />
 </div>
 
 ## Goals
