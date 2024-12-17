@@ -10,7 +10,7 @@ excerpt: |
     <div>
         <p>This project presents the design and development of a Robotic Cognitive Rehabilitation System aimed at assisting patients with Mild Cognitive Impairment (MCI). By leveraging computer vision and advanced machine learning algorithms, the system facilitates immersive and effective cognitive rehabilitation through automated target acquisition and real-time human-robot collaboration.</p>
         <div style="text-align: center;">
-            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-cognitive.jpg" alt='Robotic Rehabilitation System' width="100%" />
+            <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-cognitive.jpg" alt='Robotic Rehabilitation System' width="80%" />
         </div>
     </div>
 ---
