@@ -67,7 +67,7 @@ Work experience
     • Produced and prepared over 10 presentations and research papers for publication with strong verbal and written communication skills.
     
     – Technologies Utilized: Python, C++, TensorFlow, PyTorch, Keras, OpenCV, Numpy, CNN, RNN, GitHub, CUDA, ROS, etc.
-      * Supervisor: Professor Hub
+
   
 Skills
 ======
