@@ -9,13 +9,13 @@ image_width: "500px"  # Custom width for this post's image
 excerpt: "<div>
     <p>This project introduces an advanced method for repetitive action counting by integrating joint angle analysis with pose landmarks using Transformer networks. Addressing common challenges such as camera viewpoint variability, over-counting, under-counting, and sub-action differentiation, the proposed approach achieves superior performance on the RepCount dataset. By leveraging both skeletal data and joint angles, the system enhances the accuracy and robustness of action repetition detection, making significant strides in applications like fitness tracking, rehabilitation, and manufacturing operation monitoring.</p>
     <div style='text-align: center;'>
-            <img src='https://yourwebsite.com/images/repetitive-action-counting.jpg' alt='Repetitive Action Counting' width='800' />
+            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/repetitive-action-counting.jpg' alt='Repetitive Action Counting' width='800' />
     </div>
 </div>"
 ---
 
 <div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/repetitive-action-counting.jpg" alt="Repetitive Action Counting" width="800" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/repetitive-action-counting.jpg" alt="Repetitive Action Counting" width="800" />
 </div>
 
 ## Goals
@@ -25,7 +25,7 @@ excerpt: "<div>
 - **Validate on Public Datasets:** Demonstrate the method's effectiveness by achieving superior performance metrics on the RepCount public dataset.
 
 <div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/repetitive-action-counting-goals.jpg" alt="Project Goals" width="700" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-4-goal.jpg" alt="Project Goals" width="700" />
 </div>
 
 ## Key Contributions
@@ -36,8 +36,13 @@ excerpt: "<div>
 - **Comprehensive Evaluation:** Conducted extensive experiments to validate the effectiveness of different joint angle configurations and their impact on repetitive action counting.
 
 <div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/repetitive-action-counting-contributions.jpg" alt="Key Contributions" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-4-model_arch_RAC.jpg" alt="Key Contributions" width="900" />
 </div>
+<div style="text-align: center;">
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-4-RAC_density_samples.jpg" alt="Key Contributions" width="900" />
+</div>
+
+
 
 ## Technologies Utilized
 - **Pose Estimation:** Employed Google Mediapipe BlazePose model to extract 33 pose landmarks with high accuracy.
@@ -49,7 +54,7 @@ excerpt: "<div>
 - **Hardware Setup:** High-performance computing resources including NVIDIA GeForce RTX 3090 for accelerated training and inference.
 
 <div style="text-align: center;">
-    <img src="https://yourwebsite.com/images/repetitive-action-counting-technology.jpg" alt="Technologies Utilized" width="1400" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-4-landmark_single_side_half.jpg" alt="Technologies Utilized" width="1400" />
 </div>
 
 ## Impact
