@@ -29,7 +29,7 @@ excerpt: |
 - **Ensure Real-Time Performance and Robustness:** Achieve real-time processing capabilities and maintain high accuracy under varying environmental conditions and tool orientations.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-1-instance-segmentation-goal.jpg" alt="Project Goals" width="700" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-1-goal.jpg" alt="Project Goals" width="700" />
 </div>
 
 ## Key Findings
@@ -41,7 +41,7 @@ excerpt: |
 - **Scalability and Flexibility:** The system maintained high performance across varying distances (up to 160 cm) and environmental conditions, showcasing its robustness and adaptability for real-world manufacturing environments.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-1-instance-segmentation-findings.jpg" alt="Key Findings" width="1400" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-1-findings.jpg" alt="Key Findings" width="1400" />
 </div>
 
 ## Technologies Utilized
