@@ -29,7 +29,7 @@ excerpt: |
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-goal.jpg" alt="Project Goals" width="700" />
 </div>
 
-## Key Contributions
+## Key Findings
 - **Integration of Joint Angles and Pose Landmarks:** Combined joint angle analysis with pose landmarks to provide a comprehensive understanding of human movements, enhancing action counting accuracy.
 - **Transformer-Based Architecture:** Implemented a Transformer network to effectively model the temporal dynamics and spatial relationships in repetitive actions.
 - **Improved Performance Metrics:** Achieved a Mean Absolute Error (MAE) of 0.211 and an Off-By-One Accuracy (OBOA) of 0.599 on the RepCount dataset, surpassing existing state-of-the-art methods.
@@ -37,10 +37,10 @@ excerpt: |
 - **Comprehensive Evaluation:** Conducted extensive experiments to validate the effectiveness of different joint angle configurations and their impact on repetitive action counting.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-model_arch_RAC.jpg" alt="Key Contributions" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings.jpg" alt="Key Contributions" width="900" />
 </div>
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-RAC_density_samples.jpg" alt="Key Contributions" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings_.jpg" alt="Key Contributions" width="900" />
 </div>
 
 
@@ -54,10 +54,6 @@ excerpt: |
 - **Software and Frameworks:** Python, TensorFlow, Keras, and other deep learning libraries for model development and training.
 - **Hardware Setup:** High-performance computing resources including NVIDIA GeForce RTX 3090 for accelerated training and inference.
 
-<div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-4-landmark_single_side_half.jpg" alt="Technologies Utilized" width="1400" />
-</div>
-
 ## Impact
 This project significantly advances the field of repetitive action counting by introducing a robust method that combines joint angle analysis with pose landmarks using Transformer networks. The improved accuracy and robustness of the system have substantial implications for various applications:
 - **Fitness and Rehabilitation:** Enhances the effectiveness of training and rehabilitation programs by ensuring accurate tracking of exercise repetitions.
@@ -70,5 +66,6 @@ The method's ability to handle environmental variations and differentiate sub-ac
 
 ## References
 *Please refer to the [full publication](https://asmedigitalcollection.asme.org/flexibleautomation/article-pdf/ISFA2024-140665/REPETITIVE_ACTION_COUNTING_THROUGH_JOINT_ANGLE_ANALYSIS_AND_VIDEO_TRANSFORMER_TECHNIQUES.pdf) for detailed references and further reading.*
+1.Chen, H, Zendehdel, N, Leu, MC, Moniruzzaman, M, Yin, Z, & Hajmohammadi, S. "Repetitive Action Counting Through Joint Angle Analysis and Video Transformer Techniques." Proceedings of the 2024 International Symposium on Flexible Automation. 2024 International Symposium on Flexible Automation. Seattle, Washington, USA. July 21–24, 2024. V001T08A003. ASME. https://doi.org/10.1115/ISFA2024-140665
 
 ---
