@@ -25,7 +25,7 @@ excerpt: |
 - Develop a user-friendly interface for easy interaction and educational use.
 
 
-## Key Contributions
+## Key Findings
 - **Web Application Development:** Developed a web application with a **TypeScript-based frontend** and **Python-based backend** for storing machine learning-ready datasets.
 - **IoT Integration:** Integrated **IoT and sensor networks** to enable real-time data collection, machine learning education, and testing.
 - **User-Centric Design:** Designed **user-friendly interfaces** and optimized data handling for efficient and seamless interactions within online machine learning environments.
