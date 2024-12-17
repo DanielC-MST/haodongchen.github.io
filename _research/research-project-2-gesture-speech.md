@@ -38,6 +38,10 @@ excerpt: |
 - **Comprehensive System Demonstration:** Implemented and demonstrated the HRC system using a 6-DOF robotic arm performing pick-and-place tasks, showcasing the practical applicability and efficiency of the developed system.
 
 <div style="text-align: center;">
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-MHI.gif" alt="Key Contributions" width="900" />
+</div>
+
+<div style="text-align: center;">
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-2-findings.jpg" alt="Key Contributions" width="900" />
 </div>
 
