@@ -20,8 +20,8 @@ Work experience
 * 2024 May.-Present.: Post Doctoral Associate
   *  University of Maryland, Department of Mechanical Engineering, College Park, MD, US
   *  Duties included:
-    - Designed a web-based application using TypeScript (frontend) and Python (backend) to enable online machine learning education.
-    -	Collaborated with international companies to implement AI-driven solutions, improving process optimization.
+    * Designed a web-based application using TypeScript (frontend) and Python (backend) to enable online machine learning education.
+    *	Collaborated with international companies to implement AI-driven solutions, improving process optimization.
     -	Developed proposals for projects with Siemens, Microsoft, and KU Leuven for NSF, NIST, and DOE.
     -	Developed similarity-based learning models using PHM datasets to predict equipment failures and optimize maintenance schedules.
     -	Implemented domain adaptation techniques with the CWRU dataset to enhance model generalization across diverse industrial settings.
