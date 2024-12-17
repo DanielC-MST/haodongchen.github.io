@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2024 May.-Present.: Post Doctoral Associate
+* **2024 May.-Present.: Post Doctoral Associate**
   *  University of Maryland, Department of Mechanical Engineering, College Park, MD, US
   *  Duties included:
       * Designed a web-based application using TypeScript (frontend) and Python (backend) to enable online machine learning education.
@@ -27,7 +27,7 @@ Work experience
       *	Implemented domain adaptation techniques with the CWRU dataset to enhance model generalization across diverse industrial settings.
       *	Taught Industrial AI course to PhD and Master students, covering AI models, PHM, and machine learning in smart manufacturing
 
-* 2023 Jan.-Jul.: Machine Learning Engineer
+* **2023 Jan.-Jul.: Machine Learning Engineer**
   * Peloton Interactive, New York, 441 9th Ave 6th, United States, 10001
   * Duties included:
     - Engaged in developing a cutting-edge system using AWS for Repetitive Action Counting (RepCount) and pose estimation in exercise routines, surpassing the state-of-the-art model by approximately 5%. This advancement provides users with in-depth insights into exercise patterns, enhancing progress tracking and workout optimization.
@@ -40,17 +40,17 @@ Work experience
   * Supervisor: Solmaz Hajmohammadi ([LinkedIn](https://www.linkedin.com/in/solmazhajmohammadi/))
 
 
-* 2019 Aug. - 2024 May: Graduate Research Assistant
+* **2019 Aug.- 2024 May: Graduate Research Assistant**
   * Missouri University of Science and Technology
   * Duties included:
     - Engaged in pioneering research on human activity recognition, human-computer interaction (HCI), and human-robot collaboration (HRC) systems using sensor-driven big data, on-site customized cognition, and augmented reality (AR) control structures. Key highlights: 
     – Recognition& Accuracy: 
-    • Achieved 95% accuracy on instance segmentation of tools and parts using Mask RCNN, implemented object-oriented Python.
-    • Achieved 99% accuracy of offline multi-modal assembly action recognition using using CNN (VGG16, ResNet 50, and Inception V3) and RNN (LSTM and GRU) with CUDA/GPU programming. 
-    • Attained 99% accuracy in real-time gesture recognition and 95% accuracy in NLP under diverse background noise condition using CNN and Google Speech Recognizer.
-    • Reached 95% accuracy on action recognition using inertial measurement unit (IMU) signals with TensorFlow and online assembly setp/sequence recognition using multi-view RGB camera inputs and fog computing. 
-    • Implemented data augmentation through image processing and Generative Adversarial Networks (GANs) to amplify data from a limited dataset.
-    • Optimize motion patterns using unsupervised methods, such as the spectral cluster and Gaussian Mixture Model (GMM).
+        * Achieved 95% accuracy on instance segmentation of tools and parts using Mask RCNN, implemented object-oriented Python.
+        * Achieved 99% accuracy of offline multi-modal assembly action recognition using using CNN (VGG16, ResNet 50, and Inception V3) and RNN (LSTM and GRU) with CUDA/GPU programming. 
+        * Attained 99% accuracy in real-time gesture recognition and 95% accuracy in NLP under diverse background noise condition using CNN and Google Speech Recognizer.
+        * Reached 95% accuracy on action recognition using inertial measurement unit (IMU) signals with TensorFlow and online assembly setp/sequence recognition using multi-view RGB camera inputs and fog computing. 
+        * Implemented data augmentation through image processing and Generative Adversarial Networks (GANs) to amplify data from a limited dataset.
+        * Optimize motion patterns using unsupervised methods, such as the spectral cluster and Gaussian Mixture Model (GMM).
     
     * System Development
     • Crafted an eye gaze-based HCI system using Tobii tracker, OpenCV, PyTorch, PyQt, and Matplotlib.
