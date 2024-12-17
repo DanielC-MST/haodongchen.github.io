@@ -26,7 +26,7 @@ excerpt: |
 - **Validate on Public Datasets:** Demonstrate the method's effectiveness by achieving superior performance metrics on the RepCount public dataset.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-goal.jpg" alt="Project Goals" width="700" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-goal.jpg" alt="Project Goals" width=50% />
 </div>
 
 ## Key Findings
@@ -37,10 +37,11 @@ excerpt: |
 - **Comprehensive Evaluation:** Conducted extensive experiments to validate the effectiveness of different joint angle configurations and their impact on repetitive action counting.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings.jpg" alt="Key Contributions" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings.jpg" alt="Addressing the inability issue to stably deal
+with varying camera viewpoints" width="900" />
 </div>
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings_.jpg" alt="Key Contributions" width="900" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-4-findings_.jpg" alt="Addressing the under-counting issue" width="900" />
 </div>
 
 
