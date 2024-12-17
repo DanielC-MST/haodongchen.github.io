@@ -61,5 +61,5 @@ This project advances the precision of activity recognition systems in manufactu
 
 ## Selected Publications
 *Please refer to the [full publication](https://doi.org/10.1007/s10845-023-02152-x) for detailed references and further reading.*
-
+1.Chen, H., Zendehdel, N., Leu, M.C. et al. Fine-grained activity classification in assembly based on multi-visual modalities. J Intell Manuf 35, 2215–2233 (2024). [doi](https://doi.org/10.1007/s10845-023-02152-x)
 ---
