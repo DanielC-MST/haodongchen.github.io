@@ -11,11 +11,11 @@ author_profile: true
   {{ publication.reference }}
 {% endfor %}
 
-**Chen, H**, Zendehdel, N, Leu, MC, Moniruzzaman, M, Yin, Z, & Hajmohammadi, S. "Repetitive Action Counting Through Joint Angle Analysis and Video Transformer Techniques." Proceedings of the 2024 International Symposium on Flexible Automation. 2024 International Symposium on Flexible Automation. Seattle, Washington, USA. July 21–24, 2024. V001T08A003. ASME. [doi](https://doi.org/10.1115/ISFA2024-140665)
+- **Chen, H**, Zendehdel, N, Leu, MC, Moniruzzaman, M, Yin, Z, & Hajmohammadi, S. "Repetitive Action Counting Through Joint Angle Analysis and Video Transformer Techniques." Proceedings of the 2024 International Symposium on Flexible Automation. 2024 International Symposium on Flexible Automation. Seattle, Washington, USA. July 21–24, 2024. V001T08A003. ASME. [doi](https://doi.org/10.1115/ISFA2024-140665)
 
-Zendehdel, N, **Chen, H**, Song, YS, & Leu, MC. "Implementing Eye Movement Tracking for UAV Navigation." Proceedings of the 2024 International Symposium on Flexible Automation. [2024 International Symposium on Flexible Automation. Seattle, Washington, USA. July 21–24, 2024. V001T08A004. ASME.](https://asmedigitalcollection.asme.org/ISFA/proceedings-abstract/ISFA2024/87882/1204948). [doi](https://doi.org/10.1115/ISFA2024-140778)
+- Zendehdel, N, **Chen, H**, Song, YS, & Leu, MC. "Implementing Eye Movement Tracking for UAV Navigation." Proceedings of the 2024 International Symposium on Flexible Automation. [2024 International Symposium on Flexible Automation. Seattle, Washington, USA. July 21–24, 2024. V001T08A004. ASME.](https://asmedigitalcollection.asme.org/ISFA/proceedings-abstract/ISFA2024/87882/1204948). [doi](https://doi.org/10.1115/ISFA2024-140778)
 
-1\. **Chen, H.**, Zendehdel, N., Leu, M.C., and Yin, Z. 2023. Real-time Human-Computer Interaction Using Eye Gazes. [*Manufacturing Letters*](https://doi.org/10.1016/j.mfglet.2023.07.024), 35, pp. 883-894. [PDF](https://DanielC-MST.github.io/haodongchen.github.io/files/Publication_1.pdf)
+- **Chen, H.**, Zendehdel, N., Leu, M.C., and Yin, Z. 2023. Real-time Human-Computer Interaction Using Eye Gazes. [*Manufacturing Letters*](https://doi.org/10.1016/j.mfglet.2023.07.024), 35, pp. 883-894. [PDF](https://DanielC-MST.github.io/haodongchen.github.io/files/Publication_1.pdf)
 
 2\. Zendehdel, N., **Chen, H.**, Leu, M.C., and Yin, Z. 2023. Real-time Tool Detection in Smart Manufacturing Using YOLO. [*Manufacturing Letters*](https://doi.org/10.1016/j.mfglet.2023.08.062), 35, pp. 1052-1059. [PDF](https://DanielC-MST.github.io/haodongchen.github.io/files/Publication_2.pdf)
 
