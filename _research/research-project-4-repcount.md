@@ -9,8 +9,8 @@ image_width: "500px"  # Custom width for this post's image
 excerpt: |
     <div>
         <p>This project introduces an advanced method for repetitive action counting by integrating joint angle analysis with pose landmarks using Transformer networks. Addressing common challenges such as camera viewpoint variability, over-counting, under-counting, and sub-action differentiation, the proposed approach achieves superior performance on the RepCount dataset. By leveraging both skeletal data and joint angles, the system enhances the accuracy and robustness of action repetition detection, making significant strides in applications like fitness tracking, rehabilitation, and manufacturing operation monitoring.</p>
-        <div style='text-align: center;'>
-                <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/repetitive-4-action-counting.jpg' alt='Repetitive Action Counting' width='800' />
+        <div style="text-align: center;">
+                <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/repetitive-4-action-counting.jpg" alt="Repetitive Action Counting" width=100% />
         </div>
     </div>
 ---
