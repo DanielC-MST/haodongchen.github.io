@@ -43,13 +43,14 @@ Work experience
 * **2019 Aug.- 2024 May: Graduate Research Assistant**
   * Missouri University of Science and Technology
   * Duties included: Engaged in pioneering research on human activity recognition, human-computer interaction (HCI), and human-robot collaboration (HRC) systems using sensor-driven big data, on-site customized cognition, and augmented reality (AR) control structures.:
-      – Recognition& Accuracy: 
-          * Achieved 95% accuracy on instance segmentation of tools and parts using Mask RCNN, implemented object-oriented Python.
-          * Achieved 99% accuracy of offline multi-modal assembly action recognition using using CNN (VGG16, ResNet 50, and Inception V3) and RNN (LSTM and GRU) with CUDA/GPU programming. 
-          * Attained 99% accuracy in real-time gesture recognition and 95% accuracy in NLP under diverse background noise condition using CNN and Google Speech Recognizer.
-          * Reached 95% accuracy on action recognition using inertial measurement unit (IMU) signals with TensorFlow and online assembly setp/sequence recognition using multi-view RGB camera inputs and fog computing. 
-          * Implemented data augmentation through image processing and Generative Adversarial Networks (GANs) to amplify data from a limited dataset.
-          * Optimize motion patterns using unsupervised methods, such as the spectral cluster and Gaussian Mixture Model (GMM).
+    
+      * Recognition& Accuracy: 
+        * Achieved 95% accuracy on instance segmentation of tools and parts using Mask RCNN, implemented object-oriented Python.
+        * Achieved 99% accuracy of offline multi-modal assembly action recognition using using CNN (VGG16, ResNet 50, and Inception V3) and RNN (LSTM and GRU) with CUDA/GPU programming. 
+        * Attained 99% accuracy in real-time gesture recognition and 95% accuracy in NLP under diverse background noise condition using CNN and Google Speech Recognizer.
+        * Reached 95% accuracy on action recognition using inertial measurement unit (IMU) signals with TensorFlow and online assembly setp/sequence recognition using multi-view RGB camera inputs and fog computing. 
+        * Implemented data augmentation through image processing and Generative Adversarial Networks (GANs) to amplify data from a limited dataset.
+        * Optimize motion patterns using unsupervised methods, such as the spectral cluster and Gaussian Mixture Model (GMM).
     
     * System Development
         * Crafted an eye gaze-based HCI system using Tobii tracker, OpenCV, PyTorch, PyQt, and Matplotlib.
