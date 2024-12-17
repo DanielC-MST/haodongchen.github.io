@@ -42,8 +42,7 @@ Work experience
 
 * **2019 Aug.- 2024 May: Graduate Research Assistant**
   * Missouri University of Science and Technology
-  * Duties included:
-    - Engaged in pioneering research on human activity recognition, human-computer interaction (HCI), and human-robot collaboration (HRC) systems using sensor-driven big data, on-site customized cognition, and augmented reality (AR) control structures. Key highlights: 
+  * Duties included: Engaged in pioneering research on human activity recognition, human-computer interaction (HCI), and human-robot collaboration (HRC) systems using sensor-driven big data, on-site customized cognition, and augmented reality (AR) control structures.:
       – Recognition& Accuracy: 
           * Achieved 95% accuracy on instance segmentation of tools and parts using Mask RCNN, implemented object-oriented Python.
           * Achieved 99% accuracy of offline multi-modal assembly action recognition using using CNN (VGG16, ResNet 50, and Inception V3) and RNN (LSTM and GRU) with CUDA/GPU programming. 
@@ -53,16 +52,16 @@ Work experience
           * Optimize motion patterns using unsupervised methods, such as the spectral cluster and Gaussian Mixture Model (GMM).
     
     * System Development
-    • Crafted an eye gaze-based HCI system using Tobii tracker, OpenCV, PyTorch, PyQt, and Matplotlib.
-    • Designed an assembly action recognition and prediction system using Graph Neural Network (GNN) and YOLO.
-    • Constructed and analyzed skeleton/pose action dataset of human subjects using Google MediaPipe, SQL, Python, and Pandas.
-    • Designed an augmented reality (AR) assisted software interface for visual workforce training with CUDA/GPU programming.
-    • Initiated a proposal for YOLO-driven wound tissue detection software, utilizing GANs for data augmentation.
+        * Crafted an eye gaze-based HCI system using Tobii tracker, OpenCV, PyTorch, PyQt, and Matplotlib.
+        * Designed an assembly action recognition and prediction system using Graph Neural Network (GNN) and YOLO.
+        * Constructed and analyzed skeleton/pose action dataset of human subjects using Google MediaPipe, SQL, Python, and Pandas.
+        * Designed an augmented reality (AR) assisted software interface for visual workforce training with CUDA/GPU programming.
+        * Initiated a proposal for YOLO-driven wound tissue detection software, utilizing GANs for data augmentation.
     
-    – Research & Mentorship
-    • Reviewed current machine learning literature to guide research directions and endeavors.
-    • Mentored eight undergraduate and master's students in the research team.
-    • Produced and prepared over 10 presentations and research papers for publication with strong verbal and written communication skills.
+    * Research & Mentorship
+        * Reviewed current machine learning literature to guide research directions and endeavors.
+        * Mentored eight undergraduate and master's students in the research team.
+        * Produced and prepared over 10 presentations and research papers for publication with strong verbal and written communication skills.
     
     – Technologies Utilized: Python, C++, TensorFlow, PyTorch, Keras, OpenCV, Numpy, CNN, RNN, GitHub, CUDA, ROS, etc.
 
