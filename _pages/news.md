@@ -63,11 +63,11 @@ author_profile: true
 
 - **2019.07** Began my Ph.D. program in Mechanical Engineering at the [Missouri S&T](https://www.mst.edu/).
 
-- **2019.07.05-09** Served as Co-Chair for the [ASME IMECE 2019 Conference](https://www.asme.org/events-and-education/conferences/imece), contributing to the successful organization and management of the event.
+- **2019.11** Served as Co-Chair for the [ASME IMECE 2019 Conference](https://www.asme.org/events-and-education/conferences/imece), contributing to the successful organization and management of the event.
 
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2019-IMECE.JPG" alt="ASME IMECE Co-chair 2019" width="300" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2019-IMECE.jpg" alt="ASME IMECE Co-chair 2019" width="300" />
 </div>
 
 ## **2018 Highlights**
