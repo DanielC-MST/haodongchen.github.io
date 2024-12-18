@@ -8,34 +8,39 @@ author_profile: true
 {% include base_path %}
 
 ## **2024 Highlights**
+- **2024.08.26** Began serving as a graduate teaching assistant for the Industrial AI (ENME 691), giving at least 5 lectures and guiding graduate students.
 
-<!-- Add your 2024 news items here -->
+- **2024.05.20** Attended the Graduation Ceremony in Mechanical Engineering at the [Missouri University of Science and Technology](https://www.mst.edu/). Celebrated the successful completion of my Ph.D. program and the beginning of new professional endeavors.
+  
+  <div style="text-align: center;">
+      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-graduation.jpg" alt="Graduation Defense 2024" width="300" />
+  </div>
+
+- **2024.02.15** Successfully completed my graduation defense in Mechanical Engineering at the [Missouri University of Science and Technology](https://www.mst.edu/). This milestone marks the culmination of my doctoral studies in aerosol science and engineering, and I am excited to embark on the next phase of my professional journey.
+
+  <div style="text-align: center;">
+      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-defensive.jpg" alt="Graduation Defense 2024" width="300" />
+  </div>
+
 - **2024.03.02** Attended the annual Frost Museum Science and Engineering Day! Presented the "Clouds in the Bottle" and "Laser-Cloud Interactions" demonstrations.
 
-- **2024.08.26** Began serving as a graduate teaching assistant for the Fundamentals of Environmental Engineering and Science (ENV ENG 2601), leading lab sessions and guiding undergraduate students.
 
 ## **2023 Highlights**
 
 - **2023.11.15** Presented "Real-time Human-Computer Interaction Using Eye Gazes" at the 51st SME North American Manufacturing Research Conference (NAMRC 51), contributing to advancements in human-computer interaction technologies.
+<div style="text-align: center;">
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-NAMRC51_2023.jpg" alt="STEMday 2023 Event" width="300" />
+</div>
 
 - **2023.01.07** Completed an internship at [Peloton](https://www.onepeloton.com/), where I worked on developing advanced manufacturing processes and improving system efficiencies. *(Feel free to add more details about your role and accomplishments)*
 
-<div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/conference-presentation-2023.jpg" alt="Conference Presentation 2023" width="300" />
-</div>
-
 ## **2022 Highlights**
 
-<!-- Add your 2022 news items here -->
-<!-- Example Placeholder -->
-<!--
-- **2022.MM.DD** Description of the achievement or event. [Link if applicable](#).
-
+- **2022.11.08** Wonderful time on #STEMday working together with middle school students on Nov. 8th.
+ Thanks to Niloofar Zendehdel for preparing the project using the single-chip microcomputer.
   <div style="text-align: center;">
-      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/your-image-2022.jpg" alt="Description of Image" width="300" />
+      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-STEMday-2022.jpg" alt="STEMday 2023 Event" width="300" />
   </div>
--->
-*No highlights added for 2022 yet.*
 
 ## **2021 Highlights**
 
