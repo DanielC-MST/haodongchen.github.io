@@ -31,11 +31,11 @@ author_profile: true
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-NAMRC51_2023.jpg" alt="STEMday 2023 Event" width="300" />
 </div>
 
-- **2023.01.07** Completed an internship at [Peloton](https://www.onepeloton.com/), where I worked on developing advanced manufacturing processes and improving system efficiencies. *(Feel free to add more details about your role and accomplishments)*
+- **2023.01.07** Completed an internship at [Peloton](https://www.onepeloton.com/), where I worked as a machine learning engineer on developing advanced pose estimation and repetitive action counting models using transformer models and attention mechanisms. 
 
 ## **2022 Highlights**
 
-- **2022.11.08** Wonderful time on #STEMday working together with middle school students on Nov. 8th.
+- **2022.11.08** Wonderful time on [STEMday](https://stemcenter.mst.edu/aboutus/news/stemday2022/) working together with middle school students on Nov. 8th.
  Thanks to Niloofar Zendehdel for preparing the project using the single-chip microcomputer.
   <div style="text-align: center;">
       <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-STEMday-2022.jpg" alt="STEMday 2023 Event" width="300" />
@@ -43,7 +43,7 @@ author_profile: true
 
 ## **2021 Highlights**
 
-- **2021.01.19** Successfully passed my qualifying exam. Excited for what's next!
+- **2021.07** Successfully passed my qualifying exam. Excited for what's next!
 
 ## **2020 Highlights** 
 
