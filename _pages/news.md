@@ -68,7 +68,7 @@ author_profile: true
 
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2019-IMECE.jpg" alt="ASME IMECE Co-chair 2019" width="300" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2019-IMECE.JPG" alt="ASME IMECE Co-chair 2019" width="300" />
 </div>
 
 ## **2018 Highlights**
