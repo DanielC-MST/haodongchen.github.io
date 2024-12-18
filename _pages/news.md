@@ -68,6 +68,14 @@ author_profile: true
 
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/conference-cochair-2019.jpg" alt="ASME IMECE Co-chair 2019" width="300" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2019-IMECE.jpg" alt="ASME IMECE Co-chair 2019" width="300" />
 </div>
+
+## **2018 Highlights**
+
+- **2018.11.11-14** Presented "An Integrated Target Acquisition Approach and Graphical User Interface Tool for Parallel Manipulator Assembly" at the [ASME IMECE 2018](https://www.asme.org/events-and-education/conferences/imece), Pittsburgh, USA.
+  
+  <div style="text-align: center;">
+      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2018-IMECE.jpg" alt="ASME IMECE 2018 Presentation" width="300" />
+  </div>
 
