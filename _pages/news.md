@@ -16,14 +16,13 @@ author_profile: true
       <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-graduation.jpg" alt="Graduation Defense 2024" width="300" />
   </div>
 
-- **2024.02.15** Successfully completed my graduation defense in Mechanical Engineering at the [Missouri University of Science and Technology](https://www.mst.edu/). This milestone marks the culmination of my doctoral studies in aerosol science and engineering, and I am excited to embark on the next phase of my professional journey.
+- **2024.02.15** Successfully completed my graduation defense in Mechanical Engineering at the [Missouri University of Science and Technology](https://www.mst.edu/). This milestone marks the culmination of my doctoral studies in mechanical engineering, and I am excited to embark on the next phase of my professional journey.
 
   <div style="text-align: center;">
       <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-defensive.jpg" alt="Graduation Defense 2024" width="300" />
   </div>
 
-- **2024.03.02** Attended the annual Frost Museum Science and Engineering Day! Presented the "Clouds in the Bottle" and "Laser-Cloud Interactions" demonstrations.
-
+- **2024.03.02** Attended the annual Frost Museum Science and Engineering Day! Presented the "Clouds in the Bottle" and "Laser-Cloud Interactions" demonstrations under the guidance of [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707) and Dr. [Jiayu Li](https://people.miami.edu/profile/9ea70c744061dbac2391b5f5c3e19582).
 
 ## **2023 Highlights**
 
