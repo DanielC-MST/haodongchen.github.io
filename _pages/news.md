@@ -11,12 +11,12 @@ author_profile: true
 
 - **2024.05.20** Attended the Graduation Ceremony in Mechanical Engineering at the [Missouri University of Science and Technology](https://www.mst.edu/). Celebrated the successful completion of my Ph.D. program and the beginning of new professional endeavors.
   <div style="text-align: center;">
-      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-graduation.jpg" alt="Graduation Defense 2024" width="300" />
+      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-graduation.jpg" alt="Graduation Defense 2024" width="500" />
   </div>
 
 - **2024.02.15** Successfully completed my graduation defense in Mechanical Engineering at the [Missouri University of Science and Technology](https://www.mst.edu/). This milestone marks the culmination of my doctoral studies in mechanical engineering, and I am excited to embark on the next phase of my professional journey.
   <div style="text-align: center;">
-      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-defensive.jpg" alt="Graduation Defense 2024" width="500" />
+      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-defensive.jpg" alt="Graduation Defense 2024" width="300" />
   </div>
 
 - **2024.03.02** Attended the annual Frost Museum Science and Engineering Day! Presented the "Clouds in the Bottle" and "Laser-Cloud Interactions" demonstrations
