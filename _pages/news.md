@@ -28,7 +28,7 @@ under the guidance of [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f
 
 - **2023.11.15** Presented "Real-time Human-Computer Interaction Using Eye Gazes" at the 51st SME North American Manufacturing Research Conference (NAMRC 51), contributing to advancements in human-computer interaction technologies.
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-NAMRC51_2023.jpg" alt="STEMday 2023 Event" width="300" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-NAMRC51_2023.jpg" alt="STEMday 2023 Event" width="500" />
 </div>
 
 - **2023.01.07** Completed an internship at [Peloton](https://www.onepeloton.com/), where I worked as a machine learning engineer on developing advanced pose estimation and repetitive action counting models using transformer models and attention mechanisms. 
