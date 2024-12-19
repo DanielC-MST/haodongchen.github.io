@@ -16,10 +16,13 @@ author_profile: true
 
 - **2024.02.15** Successfully completed my graduation defense in Mechanical Engineering at the [Missouri University of Science and Technology](https://www.mst.edu/). This milestone marks the culmination of my doctoral studies in mechanical engineering, and I am excited to embark on the next phase of my professional journey.
   <div style="text-align: center;">
-      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-defensive.jpg" alt="Graduation Defense 2024" width="300" />
+      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-defensive.jpg" alt="Graduation Defense 2024" width="500" />
   </div>
 
-- **2024.03.02** Attended the annual Frost Museum Science and Engineering Day! Presented the "Clouds in the Bottle" and "Laser-Cloud Interactions" demonstrations under the guidance of [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707) and Dr. [Jiayu Li](https://people.miami.edu/profile/9ea70c744061dbac2391b5f5c3e19582).
+- **2024.03.02** Attended the annual Frost Museum Science and Engineering Day! Presented the "Clouds in the Bottle" and "Laser-Cloud Interactions" demonstrations
+<!--
+under the guidance of [Dr. Yang Wang](https://people.miami.edu/profile/dec102c8f8ba6c48c281dd2300d0f707) and Dr. [Jiayu Li](https://people.miami.edu/profile/9ea70c744061dbac2391b5f5c3e19582).
+-->
 
 ## **2023 Highlights**
 
@@ -35,7 +38,7 @@ author_profile: true
 - **2022.11.08** Wonderful time on [STEMday](https://stemcenter.mst.edu/aboutus/news/stemday2022/) working together with middle school students on Nov. 8th.
  Thanks to Niloofar Zendehdel for preparing the project using the single-chip microcomputer.
   <div style="text-align: center;">
-      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-STEMday-2022.jpg" alt="STEMday 2023 Event" width="300" />
+      <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-STEMday-2022.jpg" alt="STEMday 2023 Event" width="700" />
   </div>
 
 ## **2021 Highlights**
@@ -55,7 +58,7 @@ author_profile: true
 - **2019.11** Served as Co-Chair for the [ASME IMECE 2019 Conference](https://www.asme.org/events-and-education/conferences/imece), contributing to the successful organization and management of the event.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2019-IMECE.jpg" alt="ASME IMECE Co-chair 2019" width="300" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2019-IMECE.jpg" alt="ASME IMECE Co-chair 2019" width="500" />
 </div>
 
 ## **2018 Highlights**
@@ -63,6 +66,6 @@ author_profile: true
 - **2018.11.11-14** Presented "An Integrated Target Acquisition Approach and Graphical User Interface Tool for Parallel Manipulator Assembly" at the [ASME IMECE 2018](https://www.asme.org/events-and-education/conferences/imece), Pittsburgh, USA.
   
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2018-IMECE.jpg" alt="ASME IMECE 2018 Presentation" width="300" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/news/news-2018-IMECE.jpg" alt="ASME IMECE 2018 Presentation" width="500" />
 </div>
 
