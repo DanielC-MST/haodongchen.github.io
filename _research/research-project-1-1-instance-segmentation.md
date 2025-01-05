@@ -2,7 +2,7 @@
 title: "Instance Segmentation and Software Design for Real-Time Tool Detection and Human-Computer Interaction in Smart Manufacturing"
 collection: research
 type: "Research"
-permalink: /research/research-project-instance-segmentation-software-design
+permalink: /research/research-project-1-1-instance-segmentation
 layout: single
 slug: "research-project-instance-segmentation-software-design"
 image_width: "500px"  # Custom width for this post's image
@@ -14,6 +14,8 @@ excerpt: |
         </div>
     </div>
 ---
+
+
 
 <div style="text-align: center;">
     <p><strong>Enhancing Smart Manufacturing and HCI through Instance Segmentation and Advanced Software Design</strong></p>
