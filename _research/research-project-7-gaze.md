@@ -5,7 +5,7 @@ type: "Research"
 permalink: /research/research-project-7-gaze
 layout: single
 slug: "research-project-7-gaze"
-image_width: "500px"  # Custom width for this post's image
+image_width: "800px"  # Custom width for this post's image
 excerpt: |
     <div>
         <p>This project presents an innovative gaze-driven assembly assistant system tailored for human-centered smart manufacturing. By integrating assembly step recognition using CNN and LSTM networks, repetitive action counting with Transformer networks, and real-time eye gaze estimation, the system provides dynamic visual assistance to enhance quality and productivity in manufacturing processes. The developed software interface offers contextual tool and part displays, detailed procedural instructions, and interactive guidance based on worker gaze, demonstrating significant improvements in assembly accuracy and operational efficiency.</p>
