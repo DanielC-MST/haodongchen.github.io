@@ -6,14 +6,15 @@ permalink: /research/research-project-5-uav
 layout: single
 slug: "research-project-5-uav"
 image_width: "500px"  # Custom width for this post's image
-excerpt: "<div>
-    <p>This project explores a novel approach to controlling unmanned aerial vehicles (UAVs) through electrooculography (EOG) based eye movement tracking. By developing an interface that translates eye movements into UAV navigation commands, the system integrates biometric technology into UAV control, offering precise and efficient maneuvering capabilities. The research demonstrates the potential of EOG in enhancing human-robot interaction, particularly benefiting individuals with mobility or communication challenges.</p>
-    <div style='text-align: center;'>
-            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-5-uav.jpg' alt='Eye Movement Tracking for UAV Navigation' width= '800px' />
+excerpt: |
+    <div>
+        <p>This project explores a novel approach to controlling unmanned aerial vehicles (UAVs) through electrooculography (EOG) based eye movement tracking. By developing an interface that translates eye movements into UAV navigation commands, the system integrates biometric technology into UAV control, offering precise and efficient maneuvering capabilities. The research demonstrates the potential of EOG in enhancing human-robot interaction, particularly benefiting individuals with mobility or communication challenges.</p>
+        <div style='text-align: center;'>
+                <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-5-uav.jpg' alt='Eye Movement Tracking for UAV Navigation' width= '800px' />
+        </div>
     </div>
-</div>"
 ---
-    
+   
 <div style="text-align: center;">
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-5-background.jpg" alt="Eye Movement Tracking for UAV Navigation" width="800" />
 </div>
