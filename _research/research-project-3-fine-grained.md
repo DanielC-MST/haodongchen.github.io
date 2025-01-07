@@ -5,13 +5,14 @@ type: "Research"
 permalink: /research/research-project-3-fine-grained
 layout: single
 slug: "research-project-3-fine-grained"
-image_width: "500px"  # Custom width for this post's image
-excerpt: "<div>
-    <p>This project focuses on the development of a fine-grained activity classification system in assembly environments using multi-visual modalities. By leveraging scene-level and temporal-level features through a two-stage neural network architecture, the system achieves high accuracy in recognizing and predicting continuous assembly activities. The creation of a specialized dataset and the integration of RGB and hand skeleton frames enhance the robustness and precision of activity recognition, contributing to improved productivity and quality control in smart manufacturing.</p>
-    <div style='text-align: center;'>
-            <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-3-fine-grained.jpg' alt='Fine-Grained Activity Classification' width=80% />
+image_width: "600px"  # Custom width for this post's image
+excerpt: |
+    <div>
+        <p>This project focuses on the development of a fine-grained activity classification system in assembly environments using multi-visual modalities. By leveraging scene-level and temporal-level features through a two-stage neural network architecture, the system achieves high accuracy in recognizing and predicting continuous assembly activities. The creation of a specialized dataset and the integration of RGB and hand skeleton frames enhance the robustness and precision of activity recognition, contributing to improved productivity and quality control in smart manufacturing.</p>
+        <div style='text-align: center;'>
+                <img src='https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-3-fine-grained.jpg' alt='Fine-Grained Activity Classification' width=80% />
+        </div>
     </div>
-</div>"
 ---
 
 <div style="text-align: center;">
