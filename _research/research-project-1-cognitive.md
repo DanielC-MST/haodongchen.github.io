@@ -5,7 +5,7 @@ type: "Research"
 permalink: /research/research-project-1-cognitive
 layout: single
 slug: "research-project-1-cognitive"
-image_width: "500"  # Custom width for this post's image
+image_width: "600px"  # Custom width for this post's image
 excerpt: |
     <div>
         <p>This project presents the design and development of a Robotic Cognitive Rehabilitation System aimed at assisting patients with Mild Cognitive Impairment (MCI). By leveraging computer vision and advanced machine learning algorithms, the system facilitates immersive and effective cognitive rehabilitation through automated target acquisition and real-time human-robot collaboration.</p>
