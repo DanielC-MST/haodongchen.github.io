@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Haodong Chen, a Postdoctoral Associate at the University of Maryland, College Park, within the Department of Mechanical Engineering, and a recent Ph.D. graduate in Mechanical Engineering from the [Missouri University of Science and Technology](https://www.mst.edu/) under the mentorship of [Dr. Ming Leu](https://sites.mst.edu/mingleu/) and Dr. [Zhaozheng Yin](https://www.cs.stonybrook.edu/people/faculty/zhaozhengyin). My primary research revolves around Industrial AI, computer vision, signal processing, and smart manufacturing systems. I have a strong background in machine learning, deep learning, and developing intelligent systems for industry and healthcare applications.
+I’m Haodong Chen, a Postdoctoral Associate at the University of Maryland, College Park, within the Department of Mechanical Engineering, and a recent Ph.D. graduate in Mechanical Engineering from the [Missouri University of Science and Technology](https://www.mst.edu/) under the mentorship of [Dr. Ming C. Leu](https://sites.mst.edu/mingleu/) and [Dr. Zhaozheng Yin](https://www.cs.stonybrook.edu/people/faculty/zhaozhengyin). My primary research revolves around Industrial AI, computer vision, signal processing, and smart manufacturing systems. I have a strong background in machine learning, deep learning, and developing intelligent systems for industry and healthcare applications.
 
 My work and research
 ======
