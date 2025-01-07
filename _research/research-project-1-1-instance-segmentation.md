@@ -16,7 +16,6 @@ excerpt: |
 ---
 
 
-
 <div style="text-align: center;">
     <p><strong>Enhancing Smart Manufacturing and HCI through Instance Segmentation and Advanced Software Design</strong></p>
     <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-1-background.jpg" alt="Instance Segmentation and Software Design" width="800" />
