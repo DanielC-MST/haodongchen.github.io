@@ -10,7 +10,7 @@ excerpt: |
     <div>
         <p>This project focuses on the application of instance segmentation and robust software design in the realm of smart manufacturing and human-computer interaction (HCI). Leveraging advanced computer vision techniques, specifically You-Only-Look-Once (YOLO)v5 and Mask Region-Based Convolutional Neural Networks (Mask R-CNN), the system achieves real-time tool detection and interactive HCI using eye gaze recognition. The software interface, developed with PyQt and Python, integrates these models to provide dynamic visual assistance, enhancing productivity and accuracy in manufacturing processes.</p>
         <div style="text-align: center;">
-                <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-8-ins-seg.jpg" alt="Software Design" width=70% />
+                <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-8-ins-seg.jpg" alt="Software Design" width=90% />
         </div>
     </div>
 ---
