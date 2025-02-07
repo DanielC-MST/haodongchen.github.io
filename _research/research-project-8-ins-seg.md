@@ -1,5 +1,5 @@
 ---
-title: "Instance Segmentation and Software Design for Real-Time Tool Detection and Human-Computer Interaction in Smart Manufacturing"
+title: "Instance Segmentation and Software Design for Real-Time Tool Detection and Human-Computer Interaction"
 collection: research
 type: "Research"
 permalink: /research/research-project-8-ins-seg
