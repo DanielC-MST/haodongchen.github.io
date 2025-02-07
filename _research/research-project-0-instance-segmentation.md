@@ -18,7 +18,7 @@ excerpt: |
 
 <div style="text-align: center;">
     <p><strong>Enhancing Smart Manufacturing and HCI through Instance Segmentation and Advanced Software Design</strong></p>
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-1-background.jpg" alt="Instance Segmentation and Software Design" width="800" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-0-background.jpg" alt="Instance Segmentation and Software Design" width="800" />
 </div>
 
 ## Goals
@@ -30,7 +30,7 @@ excerpt: |
 - **Ensure Real-Time Performance and Robustness:** Achieve real-time processing capabilities and maintain high accuracy under varying environmental conditions and tool orientations.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-1-goal.jpg" alt="Project Goals" width="700" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-0-goal.jpg" alt="Project Goals" width="700" />
 </div>
 
 ## Key Findings
@@ -42,7 +42,7 @@ excerpt: |
 - **Scalability and Flexibility:** The system maintained high performance across varying distances (up to 160 cm) and environmental conditions, showcasing its robustness and adaptability for real-world manufacturing environments.
 
 <div style="text-align: center;">
-    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-1-1-findings.jpg" alt="Key Findings" width="1400" />
+    <img src="https://DanielC-MST.github.io/haodongchen.github.io/images/research-project-0-findings.jpg" alt="Key Findings" width="1400" />
 </div>
 
 ## Technologies Utilized
