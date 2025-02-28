@@ -6,8 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
+## **2025 Highlights**
+
+- **2025.02.01** Paper accepted: [Chen, H., Zendehdel, N., Leu, M.C. and Yin, Z., 2025. A gaze-driven manufacturing assembly assistant system with integrated step recognition, repetition analysis, and real-time feedback. Engineering Applications of Artificial Intelligence, 144, p.110076.](https://doi.org/10.1016/j.engappai.2025.110076)
+
 ## **2024 Highlights**
-- **2024.08.26** Began serving as a graduate teaching assistant for the Industrial AI (ENME 691), giving at least 5 lectures and guiding graduate students.
+
+- **2024.08.26** Began serving as a teaching assistant for the Industrial AI (ENME 691), designed more than 10 lecture slides of different machine learning methods in industrial PHM study and gave at least 5 lectures and guided graduate students.
 
 - **2024.05.20** Attended the Graduation Ceremony in Mechanical Engineering at the [Missouri University of Science and Technology](https://www.mst.edu/). Celebrated the successful completion of my Ph.D. program and the beginning of new professional endeavors.
   <div style="text-align: center;">
