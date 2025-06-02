@@ -6,7 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
+
+
 ## **2025 Highlights**
+
+
+- **2025.04** [PhD Fellow at Seattle Children’s Hospital](https://www.seattlechildrens.org/) — Conducting machine learning and computer vision research on Chronic Recurrent Multifocal Osteomyelitis (CRMO) since April 2025.
 
 - **2025.02.01** Paper accepted: [Chen, H., Zendehdel, N., Leu, M.C. and Yin, Z., 2025. A gaze-driven manufacturing assembly assistant system with integrated step recognition, repetition analysis, and real-time feedback. Engineering Applications of Artificial Intelligence, 144, p.110076.](https://doi.org/10.1016/j.engappai.2025.110076)
 
